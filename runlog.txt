@@ -1,0 +1,1856 @@
+
+20230519 09.46.47 M Start    ID0:0.0  Monitor
+20230519 09.46.48 P Active   ID3      Power Any
+20230519 09.46.48 E Start    ID0:0.0  TaskService
+20230519 09.46.48 T Running  ID4      Test
+20230519 09.46.48 A Disabled ID4.1    Test.Wait
+20230519 09.46.48 A Disabled ID4.2    Test.Bluetooth
+20230519 09.46.48 T ExitOK   ID4      Test
+20230519 09.46.48 E Stop     ID0:0.0  TaskService
+20230519 09.47.19 P Inactive ID3      Power Any
+20230519 09.47.19 E Start    ID0:0.0  TaskService
+20230519 09.47.19 T Running  ID-3     System
+20230519 09.47.19 A OK       ID-3.1   Anon.Bluetooth
+20230519 09.47.19 T ExitOK   ID-3     System
+20230519 09.47.19 E Stop     ID0:0.0  TaskService
+20230519 09.47.58 E Start    ID0:0.0  TaskService
+20230519 09.48.00 E Stop     ID0:0.0  TaskService
+20230519 09.48.48 E Start    ID0:0.0  TaskService
+20230519 09.48.56 E Stop     ID0:0.0  TaskService
+20230519 09.49.27 E Start    ID0:0.0  TaskService
+20230519 09.49.53 E Stop     ID0:0.0  TaskService
+20230519 09.50.50 E Start    ID0:0.0  TaskService
+20230519 09.55.03 T RejBad   ID4      Test
+20230519 09.55.20 T Running  ID4      Test
+20230519 09.55.20 A IfFail   ID4.1    Test.Bluetooth
+20230519 09.55.20 T ExitOK   ID4      Test
+20230519 09.55.41 T Running  ID4:2    Test
+20230519 09.55.41 A OK       ID4:2.1  Test.Launch App
+20230519 09.55.41 T ExitOK   ID4:2    Test
+20230519 10.01.49 M Stop     ID0:0.0  Monitor
+20230519 10.02.20 E Stop     ID0:0.0  TaskService
+20230519 10.03.38 E Start    ID0:0.0  TaskService
+20230519 10.04.19 E Stop     ID0:0.0  TaskService
+20230519 10.04.22 E Start    ID0:0.0  TaskService
+20230519 10.04.44 E Stop     ID0:0.0  TaskService
+20230519 10.05.06 E Start    ID0:0.0  TaskService
+20230519 10.05.08 E Stop     ID0:0.0  TaskService
+20230519 10.05.09 E Start    ID0:0.0  TaskService
+20230519 10.05.10 E Stop     ID0:0.0  TaskService
+20230519 10.05.35 E Start    ID0:0.0  TaskService
+20230519 10.05.36 E Stop     ID0:0.0  TaskService
+20230519 10.05.57 E Start    ID0:0.0  TaskService
+20230519 10.05.59 E Stop     ID0:0.0  TaskService
+20230519 10.06.51 E Start    ID0:0.0  TaskService
+20230519 10.06.52 E Stop     ID0:0.0  TaskService
+20230519 10.06.54 E Start    ID0:0.0  TaskService
+20230519 10.07.00 E Stop     ID0:0.0  TaskService
+20230519 10.07.05 E Start    ID0:0.0  TaskService
+20230519 10.07.12 E Stop     ID0:0.0  TaskService
+20230519 10.07.15 E Start    ID0:0.0  TaskService
+20230519 10.07.16 E Stop     ID0:0.0  TaskService
+20230519 10.08.27 E Start    ID0:0.0  TaskService
+20230519 10.08.29 E Stop     ID0:0.0  TaskService
+20230519 10.09.01 E Start    ID0:0.0  TaskService
+20230519 10.09.02 E Stop     ID0:0.0  TaskService
+20230519 10.09.04 E Start    ID0:0.0  TaskService
+20230519 10.09.05 E Stop     ID0:0.0  TaskService
+20230519 10.09.19 E Start    ID0:0.0  TaskService
+20230519 10.09.36 E Stop     ID0:0.0  TaskService
+20230519 10.09.42 E Start    ID0:0.0  TaskService
+20230519 10.09.43 E Stop     ID0:0.0  TaskService
+20230519 10.09.56 E Start    ID0:0.0  TaskService
+20230519 10.10.14 E Stop     ID0:0.0  TaskService
+20230519 10.10.56 E Start    ID0:0.0  TaskService
+20230519 10.10.58 E Stop     ID0:0.0  TaskService
+20230519 10.10.59 E Start    ID0:0.0  TaskService
+20230519 10.11.03 E Stop     ID0:0.0  TaskService
+20230519 10.11.04 E Start    ID0:0.0  TaskService
+20230519 10.11.33 E Stop     ID0:0.0  TaskService
+20230519 10.11.40 E Start    ID0:0.0  TaskService
+20230519 10.11.53 E Stop     ID0:0.0  TaskService
+20230519 10.12.06 E Start    ID0:0.0  TaskService
+20230519 10.12.13 E Stop     ID0:0.0  TaskService
+20230519 10.12.16 E Start    ID0:0.0  TaskService
+20230519 10.15.05 E Stop     ID0:0.0  TaskService
+20230519 10.15.08 E Start    ID0:0.0  TaskService
+20230519 10.17.13 E Stop     ID0:0.0  TaskService
+20230519 10.17.32 E Start    ID0:0.0  TaskService
+20230519 10.22.59 E Stop     ID0:0.0  TaskService
+20230519 10.23.05 E Start    ID0:0.0  TaskService
+20230519 10.23.06 E Stop     ID0:0.0  TaskService
+20230519 10.23.22 E Start    ID0:0.0  TaskService
+20230519 10.23.23 E Stop     ID0:0.0  TaskService
+20230519 10.23.24 E Start    ID0:0.0  TaskService
+20230519 10.23.25 E Stop     ID0:0.0  TaskService
+20230519 10.23.28 E Start    ID0:0.0  TaskService
+20230519 10.23.31 E Stop     ID0:0.0  TaskService
+20230519 10.23.40 E Start    ID0:0.0  TaskService
+20230519 10.23.56 E Stop     ID0:0.0  TaskService
+20230519 10.24.21 E Start    ID0:0.0  TaskService
+20230519 10.24.45 E Stop     ID0:0.0  TaskService
+20230519 10.25.06 E Start    ID0:0.0  TaskService
+20230519 10.29.36 E Stop     ID0:0.0  TaskService
+20230519 10.29.50 E Start    ID0:0.0  TaskService
+20230519 10.49.57 E Stop     ID0:0.0  TaskService
+20230519 10.49.59 E Start    ID0:0.0  TaskService
+20230519 10.56.01 E Start    ID0:0.0  TaskService
+20230519 11.07.07 E Stop     ID0:0.0  TaskService
+20230519 11.07.13 E Start    ID0:0.0  TaskService
+20230519 11.07.52 E Stop     ID0:0.0  TaskService
+20230519 11.07.54 E Start    ID0:0.0  TaskService
+20230519 11.10.47 E Stop     ID0:0.0  TaskService
+20230519 11.11.19 E Start    ID0:0.0  TaskService
+20230519 11.11.49 E Stop     ID0:0.0  TaskService
+20230519 11.11.50 E Start    ID0:0.0  TaskService
+20230519 11.12.08 E Stop     ID0:0.0  TaskService
+20230519 11.12.09 E Start    ID0:0.0  TaskService
+20230519 11.12.51 T Running  ID4      Test
+20230519 11.12.51 A Disabled ID4.1    Test.Launch App
+20230519 11.12.51 M Start    ID0:0.0  Monitor
+20230519 11.12.51 A Disabled ID4.2    Test.Wait
+20230519 11.12.51 A OK       ID4.3    Test.If
+20230519 11.12.51 T ExitOK   ID4      Test
+20230519 11.13.01 E Stop     ID0:0.0  TaskService
+20230519 11.13.16 E Start    ID0:0.0  TaskService
+20230519 11.13.19 T Running  ID4      Test
+20230519 11.13.19 A Disabled ID4.1    Test.Launch App
+20230519 11.13.19 A Disabled ID4.2    Test.Wait
+20230519 11.13.19 A OK       ID4.3    Test.If
+20230519 11.13.19 T ExitOK   ID4      Test
+20230519 11.14.25 T Running  ID4:2    Test
+20230519 11.14.25 A Disabled ID4:2.1  Test.Launch App
+20230519 11.14.25 A Disabled ID4:2.2  Test.Wait
+20230519 11.14.25 A OK       ID4:2.3  Test.If
+20230519 11.14.25 T ExitOK   ID4:2    Test
+20230519 11.14.31 T Running  ID4:3    Test
+20230519 11.14.31 A Disabled ID4:3.1  Test.Launch App
+20230519 11.14.31 A Disabled ID4:3.2  Test.Wait
+20230519 11.14.31 A Disabled ID4:3.3  Test.If
+20230519 11.14.43 A OK       ID4:3.4  Test.Wait
+20230519 11.14.43 T ExitOK   ID4:3    Test
+20230519 11.16.11 T Running  ID4:4    Test
+20230519 11.16.11 A Disabled ID4:4.1  Test.Launch App
+20230519 11.16.11 A Disabled ID4:4.2  Test.Wait
+20230519 11.16.11 A OK       ID4:4.3  Test.If
+20230519 11.16.11 T ExitOK   ID4:4    Test
+20230519 11.16.21 T Running  ID4:5    Test
+20230519 11.16.21 A Disabled ID4:5.1  Test.Launch App
+20230519 11.16.21 A Disabled ID4:5.2  Test.Wait
+20230519 11.16.21 A OK       ID4:5.3  Test.If
+20230519 11.16.21 T ExitOK   ID4:5    Test
+20230519 11.17.20 T Running  ID4:6    Test
+20230519 11.17.20 A Disabled ID4:6.1  Test.Launch App
+20230519 11.17.20 A Disabled ID4:6.2  Test.Wait
+20230519 11.17.20 A OK       ID4:6.3  Test.If
+20230519 11.17.23 A OK       ID4:6.4  Test.Wait
+20230519 11.17.23 A OK       ID4:6.5  Test.If
+20230519 11.17.26 A OK       ID4:6.6  Test.Wait
+20230519 11.17.26 A OK       ID4:6.7  Test.If
+20230519 11.17.26 A Disabled ID4:6.8  Test.Wait
+20230519 11.17.26 A OK       ID4:6.9  Test.If
+20230519 11.17.26 A Disabled ID4:6.10 Test.Bluetooth
+20230519 11.17.26 A OK       ID4:6.11 Test.End If
+20230519 11.17.26 A OK       ID4:6.12 Test.End If
+20230519 11.17.26 A OK       ID4:6.13 Test.End If
+20230519 11.17.26 A OK       ID4:6.14 Test.End If
+20230519 11.17.26 T ExitOK   ID4:6    Test
+20230519 11.18.50 T Running  ID4:7    Test
+20230519 11.18.50 A Disabled ID4:7.1  Test.Launch App
+20230519 11.18.50 A Disabled ID4:7.2  Test.Wait
+20230519 11.18.50 A OK       ID4:7.3  Test.If
+20230519 11.18.53 A OK       ID4:7.4  Test.Wait
+20230519 11.18.53 A OK       ID4:7.5  Test.If
+20230519 11.18.57 A OK       ID4:7.6  Test.Wait
+20230519 11.18.57 A OK       ID4:7.7  Test.If
+20230519 11.18.57 A Disabled ID4:7.8  Test.Wait
+20230519 11.18.57 A OK       ID4:7.9  Test.If
+20230519 11.18.57 A Disabled ID4:7.10 Test.Bluetooth
+20230519 11.18.57 A OK       ID4:7.11 Test.Call
+20230519 11.18.57 A OK       ID4:7.12 Test.End If
+20230519 11.18.57 A OK       ID4:7.13 Test.End If
+20230519 11.18.57 A OK       ID4:7.14 Test.End If
+20230519 11.18.57 A OK       ID4:7.15 Test.End If
+20230519 11.18.57 T ExitOK   ID4:7    Test
+20230519 11.20.10 E Stop     ID0:0.0  TaskService
+20230519 11.20.11 E Start    ID0:0.0  TaskService
+20230519 11.21.15 T Running  ID4      Test
+20230519 11.21.15 A Disabled ID4.1    Test.Launch App
+20230519 11.21.15 A Disabled ID4.2    Test.Wait
+20230519 11.21.15 A OK       ID4.3    Test.If
+20230519 11.21.18 A OK       ID4.4    Test.Wait
+20230519 11.21.18 A OK       ID4.5    Test.If
+20230519 11.21.21 A OK       ID4.6    Test.Wait
+20230519 11.21.21 A OK       ID4.7    Test.If
+20230519 11.21.21 A Disabled ID4.8    Test.Wait
+20230519 11.21.21 A OK       ID4.9    Test.If
+20230519 11.21.21 A Disabled ID4.10   Test.Bluetooth
+20230519 11.21.21 A OK       ID4.11   Test.Call
+20230519 11.21.21 A OK       ID4.12   Test.End If
+20230519 11.21.21 A OK       ID4.13   Test.End If
+20230519 11.21.21 A OK       ID4.14   Test.End If
+20230519 11.21.21 A OK       ID4.15   Test.End If
+20230519 11.21.21 T ExitOK   ID4      Test
+20230519 11.21.43 E Stop     ID0:0.0  TaskService
+20230519 11.21.57 E Start    ID0:0.0  TaskService
+20230519 11.21.59 E Stop     ID0:0.0  TaskService
+20230519 11.22.14 E Start    ID0:0.0  TaskService
+20230519 11.23.27 T Running  ID4      Test
+20230519 11.23.27 A Disabled ID4.1    Test.Launch App
+20230519 11.23.27 A Disabled ID4.2    Test.Wait
+20230519 11.23.27 A OK       ID4.3    Test.If
+20230519 11.23.27 T ExitOK   ID4      Test
+20230519 11.27.10 T Running  ID4:2    Test
+20230519 11.27.10 A Disabled ID4:2.1  Test.Launch App
+20230519 11.27.10 A Disabled ID4:2.2  Test.Wait
+20230519 11.27.10 A IfFail   ID4:2.3  Test.Goto
+20230519 11.27.10 A OK       ID4:2.4  Test.If
+20230519 11.27.13 A OK       ID4:2.5  Test.Wait
+20230519 11.27.13 A OK       ID4:2.6  Test.If
+20230519 11.27.15 A OK       ID4:2.7  Test.Wait
+20230519 11.27.15 T ExitOK   ID4:2    Test
+20230519 11.27.23 T Running  ID4:3    Test
+20230519 11.27.24 A Disabled ID4:3.1  Test.Launch App
+20230519 11.27.24 A Disabled ID4:3.2  Test.Wait
+20230519 11.27.24 A OK       ID4:3.3  Test.Goto
+20230519 11.27.24 A Disabled ID4:3.11 Test.Bluetooth
+20230519 11.27.24 A Disabled ID4:3.12 Test.Call
+20230519 11.27.24 A OK       ID4:3.13 Test.End If
+20230519 11.27.24 A OK       ID4:3.14 Test.End If
+20230519 11.27.24 A OK       ID4:3.15 Test.End If
+20230519 11.27.24 A OK       ID4:3.16 Test.End If
+20230519 11.27.24 T ExitOK   ID4:3    Test
+20230519 11.27.47 T Running  ID4:4    Test
+20230519 11.27.47 A Disabled ID4:4.1  Test.Launch App
+20230519 11.27.47 A Disabled ID4:4.2  Test.Wait
+20230519 11.27.47 A OK       ID4:4.3  Test.Goto
+20230519 11.27.47 A Disabled ID4:4.11 Test.Bluetooth
+20230519 11.27.47 A Disabled ID4:4.12 Test.Call
+20230519 11.27.47 A OK       ID4:4.13 Test.End If
+20230519 11.27.47 A OK       ID4:4.14 Test.End If
+20230519 11.27.47 A OK       ID4:4.15 Test.End If
+20230519 11.27.47 A OK       ID4:4.16 Test.End If
+20230519 11.27.47 T ExitOK   ID4:4    Test
+20230519 11.28.13 T Running  ID4:5    Test
+20230519 11.28.13 A Disabled ID4:5.1  Test.Launch App
+20230519 11.28.13 A Disabled ID4:5.2  Test.Wait
+20230519 11.28.13 A OK       ID4:5.3  Test.Goto
+20230519 11.28.13 A Disabled ID4:5.11 Test.Bluetooth
+20230519 11.28.13 A Disabled ID4:5.12 Test.Call
+20230519 11.28.13 A OK       ID4:5.13 Test.End If
+20230519 11.28.13 A OK       ID4:5.14 Test.End If
+20230519 11.28.13 A OK       ID4:5.15 Test.End If
+20230519 11.28.13 A OK       ID4:5.16 Test.End If
+20230519 11.28.13 T ExitOK   ID4:5    Test
+20230519 11.28.27 T Running  ID4:6    Test
+20230519 11.28.28 A Disabled ID4:6.1  Test.Launch App
+20230519 11.28.28 A Disabled ID4:6.2  Test.Wait
+20230519 11.28.28 A IfFail   ID4:6.3  Test.Goto
+20230519 11.28.28 A OK       ID4:6.4  Test.If
+20230519 11.28.29 A OK       ID4:6.5  Test.Wait
+20230519 11.28.29 T ExitOK   ID4:6    Test
+20230519 11.28.43 T Running  ID4:7    Test
+20230519 11.28.43 A Disabled ID4:7.1  Test.Launch App
+20230519 11.28.43 A Disabled ID4:7.2  Test.Wait
+20230519 11.28.43 A OK       ID4:7.3  Test.Goto
+20230519 11.28.43 A Disabled ID4:7.11 Test.Bluetooth
+20230519 11.28.43 A Disabled ID4:7.12 Test.Call
+20230519 11.28.43 A OK       ID4:7.13 Test.End If
+20230519 11.28.43 A OK       ID4:7.14 Test.End If
+20230519 11.28.43 A OK       ID4:7.15 Test.End If
+20230519 11.28.43 A OK       ID4:7.16 Test.End If
+20230519 11.28.43 T ExitOK   ID4:7    Test
+20230519 11.29.54 T Running  ID4:8    Test
+20230519 11.29.54 A Disabled ID4:8.1  Test.Launch App
+20230519 11.29.54 A Disabled ID4:8.2  Test.Wait
+20230519 11.29.54 A IfFail   ID4:8.3  Test.Goto
+20230519 11.29.54 A OK       ID4:8.4  Test.If
+20230519 11.29.55 A OK       ID4:8.5  Test.Wait
+20230519 11.29.55 T ExitOK   ID4:8    Test
+20230519 11.30.09 T Running  ID4:9    Test
+20230519 11.30.09 A Disabled ID4:9.1  Test.Launch App
+20230519 11.30.09 A Disabled ID4:9.2  Test.Wait
+20230519 11.30.09 A OK       ID4:9.3  Test.Goto
+20230519 11.30.09 A Disabled ID4:9.11 Test.Bluetooth
+20230519 11.30.09 A Disabled ID4:9.12 Test.Call
+20230519 11.30.09 A OK       ID4:9.13 Test.End If
+20230519 11.30.09 A OK       ID4:9.14 Test.End If
+20230519 11.30.09 A OK       ID4:9.15 Test.End If
+20230519 11.30.09 A OK       ID4:9.16 Test.End If
+20230519 11.30.09 T ExitOK   ID4:9    Test
+20230519 11.31.24 T Running  ID4:10   Test
+20230519 11.31.24 A Disabled ID4:10.1 Test.Launch App
+20230519 11.31.24 A Disabled ID4:10.2 Test.Wait
+20230519 11.31.24 A OK       ID4:10.3 Test.Goto
+20230519 11.31.24 A Disabled ID4:10.11 Test.Wait
+20230519 11.31.24 A Disabled ID4:10.12 Test.Bluetooth
+20230519 11.31.24 A Disabled ID4:10.13 Test.Call
+20230519 11.31.24 A OK       ID4:10.14 Test.End If
+20230519 11.31.24 A OK       ID4:10.15 Test.End If
+20230519 11.31.24 A OK       ID4:10.16 Test.End If
+20230519 11.31.24 A OK       ID4:10.17 Test.End If
+20230519 11.31.24 T ExitOK   ID4:10   Test
+20230519 11.31.33 T Running  ID4:11   Test
+20230519 11.31.33 A Disabled ID4:11.1 Test.Launch App
+20230519 11.31.33 A Disabled ID4:11.2 Test.Wait
+20230519 11.31.33 A OK       ID4:11.3 Test.Goto
+20230519 11.31.33 A Disabled ID4:11.11 Test.Wait
+20230519 11.31.33 A Disabled ID4:11.12 Test.Bluetooth
+20230519 11.31.33 A Disabled ID4:11.13 Test.Call
+20230519 11.31.33 A OK       ID4:11.14 Test.End If
+20230519 11.31.33 A OK       ID4:11.15 Test.End If
+20230519 11.31.33 A OK       ID4:11.16 Test.End If
+20230519 11.31.33 A OK       ID4:11.17 Test.End If
+20230519 11.31.33 T ExitOK   ID4:11   Test
+20230519 11.32.03 T Running  ID4:12   Test
+20230519 11.32.03 A Disabled ID4:12.1 Test.Launch App
+20230519 11.32.03 A Disabled ID4:12.2 Test.Wait
+20230519 11.32.03 A OK       ID4:12.3 Test.Goto
+20230519 11.32.03 A Disabled ID4:12.11 Test.Wait
+20230519 11.32.03 A Disabled ID4:12.12 Test.Bluetooth
+20230519 11.32.03 A Disabled ID4:12.13 Test.Call
+20230519 11.32.03 A OK       ID4:12.14 Test.End If
+20230519 11.32.03 A OK       ID4:12.15 Test.End If
+20230519 11.32.03 A OK       ID4:12.16 Test.End If
+20230519 11.32.03 A OK       ID4:12.17 Test.End If
+20230519 11.32.03 T ExitOK   ID4:12   Test
+20230519 11.32.15 T Running  ID4:13   Test
+20230519 11.32.15 A Disabled ID4:13.1 Test.Launch App
+20230519 11.32.15 A Disabled ID4:13.2 Test.Wait
+20230519 11.32.15 A IfFail   ID4:13.3 Test.Goto
+20230519 11.32.15 A OK       ID4:13.4 Test.If
+20230519 11.32.18 A OK       ID4:13.5 Test.Wait
+20230519 11.32.18 A OK       ID4:13.6 Test.If
+20230519 11.32.21 A OK       ID4:13.7 Test.Wait
+20230519 11.32.21 T ExitOK   ID4:13   Test
+20230519 11.33.14 E Stop     ID0:0.0  TaskService
+20230519 11.33.15 E Start    ID0:0.0  TaskService
+20230519 11.33.17 T Running  ID4      Test
+20230519 11.33.17 A Disabled ID4.1    Test.Launch App
+20230519 11.33.17 A Disabled ID4.2    Test.Wait
+20230519 11.33.17 A IfFail   ID4.3    Test.Goto
+20230519 11.33.17 A OK       ID4.4    Test.If
+20230519 11.33.19 A OK       ID4.5    Test.Wait
+20230519 11.33.19 T ExitOK   ID4      Test
+20230519 11.33.25 T Running  ID4:2    Test
+20230519 11.33.25 A Disabled ID4:2.1  Test.Launch App
+20230519 11.33.25 A Disabled ID4:2.2  Test.Wait
+20230519 11.33.25 A OK       ID4:2.3  Test.Goto
+20230519 11.33.25 A Disabled ID4:2.11 Test.Wait
+20230519 11.33.25 A Disabled ID4:2.12 Test.Bluetooth
+20230519 11.33.25 A Disabled ID4:2.13 Test.Call
+20230519 11.33.25 A OK       ID4:2.14 Test.End If
+20230519 11.33.25 A OK       ID4:2.15 Test.End If
+20230519 11.33.25 A OK       ID4:2.16 Test.End If
+20230519 11.33.25 A OK       ID4:2.17 Test.End If
+20230519 11.33.25 T ExitOK   ID4:2    Test
+20230519 11.33.35 T Running  ID4:3    Test
+20230519 11.33.35 A Disabled ID4:3.1  Test.Launch App
+20230519 11.33.35 A Disabled ID4:3.2  Test.Wait
+20230519 11.33.35 A OK       ID4:3.3  Test.Goto
+20230519 11.33.35 A IfFail   ID4:3.11 Test.Wait
+20230519 11.33.35 A Disabled ID4:3.12 Test.Bluetooth
+20230519 11.33.35 A Disabled ID4:3.13 Test.Call
+20230519 11.33.35 A OK       ID4:3.14 Test.End If
+20230519 11.33.35 A OK       ID4:3.15 Test.End If
+20230519 11.33.35 A OK       ID4:3.16 Test.End If
+20230519 11.33.35 A OK       ID4:3.17 Test.End If
+20230519 11.33.35 T ExitOK   ID4:3    Test
+20230519 11.33.45 E Stop     ID0:0.0  TaskService
+20230519 11.33.47 E Start    ID0:0.0  TaskService
+20230519 11.33.50 T Running  ID4      Test
+20230519 11.33.50 A Disabled ID4.1    Test.Launch App
+20230519 11.33.50 A Disabled ID4.2    Test.Wait
+20230519 11.33.50 A OK       ID4.3    Test.Goto
+20230519 11.34.34 A OK       ID4.11   Test.Wait
+20230519 11.34.34 T ExitOK   ID4      Test
+20230519 11.34.41 T Running  ID4:2    Test
+20230519 11.34.41 A Disabled ID4:2.1  Test.Launch App
+20230519 11.34.41 A Disabled ID4:2.2  Test.Wait
+20230519 11.34.41 A OK       ID4:2.3  Test.Goto
+20230519 11.34.52 P Active   ID3      Power Any
+20230519 11.34.52 T RejCopy  ID4      Test
+20230519 11.34.54 P Inactive ID3      Power Any
+20230519 11.34.54 T Running  ID-2:3   System
+20230519 11.34.54 A OK       ID4:2.11 Test.Wait
+20230519 11.34.54 A OK       ID-2:3.1 Anon.Bluetooth
+20230519 11.34.54 T ExitOK   ID-2:3   System
+20230519 11.34.54 P Active   ID3      Power Any
+20230519 11.34.54 T RejCopy  ID4      Test
+20230519 11.35.00 P Inactive ID3      Power Any
+20230519 11.35.00 T Running  ID-3:4   System
+20230519 11.35.00 A OK       ID4:2.11 Test.Wait
+20230519 11.35.00 A OK       ID-3:4.1 Anon.Bluetooth
+20230519 11.35.00 T ExitOK   ID-3:4   System
+20230519 11.35.03 P Active   ID3      Power Any
+20230519 11.35.04 T RejCopy  ID4      Test
+20230519 11.35.08 A OK       ID4:2.11 Test.Wait
+20230519 11.35.08 T ExitOK   ID4:2    Test
+20230519 11.35.58 T Running  ID4:5    Test
+20230519 11.35.58 A Disabled ID4:5.1  Test.Launch App
+20230519 11.35.58 A Disabled ID4:5.2  Test.Wait
+20230519 11.35.58 A OK       ID4:5.3  Test.Goto
+20230519 11.36.04 P Inactive ID3      Power Any
+20230519 11.36.04 T Running  ID-6:6   System
+20230519 11.36.04 A OK       ID4:5.11 Test.Wait
+20230519 11.36.05 A OK       ID-6:6.1 Anon.Bluetooth
+20230519 11.36.05 T ExitOK   ID-6:6   System
+20230519 11.36.09 P Active   ID3      Power Any
+20230519 11.36.09 T RejCopy  ID4      Test
+20230519 11.36.15 A OK       ID4:5.11 Test.Wait
+20230519 11.36.15 T ExitOK   ID4:5    Test
+20230519 11.36.17 P Inactive ID3      Power Any
+20230519 11.36.18 T Running  ID-7:7   System
+20230519 11.36.18 A OK       ID-7:7.1 Anon.Bluetooth
+20230519 11.36.18 T ExitOK   ID-7:7   System
+20230519 11.36.19 T Running  ID4:8    Test
+20230519 11.36.19 A Disabled ID4:8.1  Test.Launch App
+20230519 11.36.19 A Disabled ID4:8.2  Test.Wait
+20230519 11.36.19 A IfFail   ID4:8.3  Test.Goto
+20230519 11.36.19 A OK       ID4:8.4  Test.If
+20230519 11.36.22 A OK       ID4:8.5  Test.Wait
+20230519 11.36.22 A OK       ID4:8.6  Test.If
+20230519 11.36.24 A OK       ID4:8.7  Test.Wait
+20230519 11.36.24 T ExitOK   ID4:8    Test
+20230519 11.41.19 T Running  ID4:9    Test
+20230519 11.41.19 A Disabled ID4:9.1  Test.Launch App
+20230519 11.41.19 A Disabled ID4:9.2  Test.Wait
+20230519 11.41.19 A IfFail   ID4:9.3  Test.Goto
+20230519 11.41.19 A OK       ID4:9.4  Test.If
+20230519 11.41.21 A OK       ID4:9.5  Test.Wait
+20230519 11.41.21 T ExitOK   ID4:9    Test
+20230519 11.41.44 T Running  ID4:10   Test
+20230519 11.41.44 A Disabled ID4:10.1 Test.Launch App
+20230519 11.41.44 A Disabled ID4:10.2 Test.Wait
+20230519 11.41.44 A IfFail   ID4:10.3 Test.Goto
+20230519 11.41.44 A OK       ID4:10.4 Test.If
+20230519 11.41.46 A OK       ID4:10.5 Test.Wait
+20230519 11.41.46 T ExitOK   ID4:10   Test
+20230519 11.41.56 T Running  ID4:11   Test
+20230519 11.41.56 A Disabled ID4:11.1 Test.Launch App
+20230519 11.41.56 A Disabled ID4:11.2 Test.Wait
+20230519 11.41.56 A IfFail   ID4:11.3 Test.Goto
+20230519 11.41.56 A OK       ID4:11.4 Test.If
+20230519 11.41.58 A OK       ID4:11.5 Test.Wait
+20230519 11.41.58 T ExitOK   ID4:11   Test
+20230519 11.42.04 T Running  ID4:12   Test
+20230519 11.42.04 A Disabled ID4:12.1 Test.Launch App
+20230519 11.42.04 A Disabled ID4:12.2 Test.Wait
+20230519 11.42.04 A IfFail   ID4:12.3 Test.Goto
+20230519 11.42.04 A OK       ID4:12.4 Test.If
+20230519 11.42.05 A OK       ID4:12.5 Test.Wait
+20230519 11.42.05 T ExitOK   ID4:12   Test
+20230519 11.42.28 T Running  ID4:13   Test
+20230519 11.42.28 A Disabled ID4:13.1 Test.Launch App
+20230519 11.42.28 A Disabled ID4:13.2 Test.Wait
+20230519 11.42.28 A IfFail   ID4:13.3 Test.Goto
+20230519 11.42.28 A OK       ID4:13.4 Test.If
+20230519 11.42.30 A OK       ID4:13.5 Test.Wait
+20230519 11.42.30 T ExitOK   ID4:13   Test
+20230519 11.42.36 T Running  ID4:14   Test
+20230519 11.42.36 A Disabled ID4:14.1 Test.Launch App
+20230519 11.42.36 A Disabled ID4:14.2 Test.Wait
+20230519 11.42.36 A IfFail   ID4:14.3 Test.Goto
+20230519 11.42.36 A OK       ID4:14.4 Test.If
+20230519 11.42.37 A OK       ID4:14.5 Test.Wait
+20230519 11.42.37 T ExitOK   ID4:14   Test
+20230519 11.42.41 T Running  ID4:15   Test
+20230519 11.42.41 A Disabled ID4:15.1 Test.Launch App
+20230519 11.42.41 A Disabled ID4:15.2 Test.Wait
+20230519 11.42.41 A OK       ID4:15.3 Test.Goto
+20230519 11.43.14 A OK       ID4:15.11 Test.Wait
+20230519 11.43.14 T ExitOK   ID4:15   Test
+20230519 11.43.15 T Running  ID4:16   Test
+20230519 11.43.15 A Disabled ID4:16.1 Test.Launch App
+20230519 11.43.15 A Disabled ID4:16.2 Test.Wait
+20230519 11.43.15 A IfFail   ID4:16.3 Test.Goto
+20230519 11.43.15 A OK       ID4:16.4 Test.If
+20230519 11.43.18 A OK       ID4:16.5 Test.Wait
+20230519 11.43.18 A OK       ID4:16.6 Test.If
+20230519 11.43.18 A OK       ID4:16.7 Test.Wait
+20230519 11.43.18 T ExitOK   ID4:16   Test
+20230519 11.43.25 T Running  ID4:17   Test
+20230519 11.43.25 A Disabled ID4:17.1 Test.Launch App
+20230519 11.43.25 A Disabled ID4:17.2 Test.Wait
+20230519 11.43.25 A IfFail   ID4:17.3 Test.Goto
+20230519 11.43.25 A OK       ID4:17.4 Test.If
+20230519 11.43.26 A OK       ID4:17.5 Test.Wait
+20230519 11.43.26 T ExitOK   ID4:17   Test
+20230519 11.43.33 T Running  ID4:18   Test
+20230519 11.43.33 A Disabled ID4:18.1 Test.Launch App
+20230519 11.43.33 A Disabled ID4:18.2 Test.Wait
+20230519 11.43.33 A OK       ID4:18.3 Test.Goto
+20230519 11.43.41 A OK       ID4:18.11 Test.Wait
+20230519 11.43.41 T ExitOK   ID4:18   Test
+20230519 11.44.19 E Stop     ID0:0.0  TaskService
+20230519 11.44.33 M Restart  ID0:0.0  Monitor
+20230519 11.44.44 E Start    ID0:0.0  TaskService
+20230519 11.45.03 E Stop     ID0:0.0  TaskService
+20230519 11.45.21 E Start    ID0:0.0  TaskService
+20230519 11.45.23 E Stop     ID0:0.0  TaskService
+20230519 11.45.33 E Start    ID0:0.0  TaskService
+20230519 11.57.41 T Running  ID4      Test
+20230519 11.57.41 A Disabled ID4.1    Test.Launch App
+20230519 11.57.41 A Disabled ID4.2    Test.Wait
+20230519 11.57.41 A OK       ID4.3    Test.Goto
+20230519 11.57.44 A OK       ID4.11   Test.Wait
+20230519 11.57.44 T ExitOK   ID4      Test
+20230519 11.58.28 E Stop     ID0:0.0  TaskService
+20230519 11.59.34 E Start    ID0:0.0  TaskService
+20230519 21.02.09 P Active   ID3      Power Any
+20230519 21.02.10 T Running  ID4      Test
+20230519 21.02.10 A Disabled ID4.1    Test.Launch App
+20230519 21.02.10 A Disabled ID4.2    Test.Wait
+20230519 21.02.10 A OK       ID4.3    Test.Goto
+20230519 21.03.17 P Inactive ID3      Power Any
+20230519 21.03.17 T Running  ID-8:2   System
+20230519 21.03.17 A OK       ID4.11   Test.Wait
+20230519 22.10.40 P Active   ID3      Power Any
+20230519 22.10.40 T RejCopy  ID4      Test
+20230519 22.11.20 M Start    ID0:0.0  Monitor
+20230519 22.11.21 P Active   ID3      Power Any
+20230519 22.11.21 E Start    ID0:0.0  TaskService
+20230519 22.11.21 T Running  ID4      Test
+20230519 22.11.21 A Disabled ID4.1    Test.Launch App
+20230519 22.11.21 A Disabled ID4.2    Test.Wait
+20230519 22.11.21 A OK       ID4.3    Test.Goto
+20230519 22.14.56 T Running  ID-2:2   Timer
+20230519 22.14.56 A OK       ID4.11   Test.Wait
+20230519 22.15.09 T RejCopy  ID2      Timer
+20230519 22.15.14 T RejCopy  ID2      Timer
+20230519 22.15.26 T RejCopy  ID2      Timer
+20230519 22.15.45 T RejCopy  ID2      Timer
+20230519 22.15.48 T RejCopy  ID2      Timer
+20230519 22.16.00 M Restart  ID0:0.0  Monitor
+20230519 22.16.00 P Inactive ID3      Power Any
+20230519 22.16.00 T Running  ID-3:3   System
+20230519 22.16.00 A OK       ID-3:3.1 Anon.Bluetooth
+20230519 22.16.00 T ExitOK   ID-3:3   System
+20230519 22.16.28 T RejCopy  ID2      Timer
+20230519 22.16.53 T RejCopy  ID2      Timer
+20230519 22.17.10 T RejCopy  ID4      Test
+20230519 22.17.14 T RejCopy  ID4      Test
+20230519 22.17.18 T RejCopy  ID4      Test
+20230519 22.17.23 E Stop     ID0:0.0  TaskService
+20230519 22.17.23 A OK       ID4.11   Test.Wait
+20230519 22.17.23 T ExitKill ID4      Test
+20230519 22.17.23 T ExitKill ID-2:2   Timer
+20230519 22.17.23 M Stop     ID0:0.0  Monitor
+20230519 22.17.30 E Start    ID0:0.0  TaskService
+20230519 22.17.32 T Running  ID2      Timer
+20230519 22.17.32 M Start    ID0:0.0  Monitor
+20230519 22.17.32 T Running  ID4:2    Test
+20230519 22.17.32 A OK       ID2.1    Timer.Perform Task, Test
+20230519 22.17.32 T ExitOK   ID2      Timer
+20230519 22.17.32 A Disabled ID4:2.1  Test.Launch App
+20230519 22.17.32 A Disabled ID4:2.2  Test.Wait
+20230519 22.17.32 A OK       ID4:2.3  Test.Goto
+20230519 22.17.45 A OK       ID4:2.11 Test.Wait
+20230519 22.17.45 T ExitOK   ID4:2    Test
+20230519 22.17.46 E Stop     ID0:0.0  TaskService
+20230519 22.17.47 E Start    ID0:0.0  TaskService
+20230519 22.17.54 E Stop     ID0:0.0  TaskService
+20230519 22.18.05 E Start    ID0:0.0  TaskService
+20230519 22.18.06 E Stop     ID0:0.0  TaskService
+20230519 22.18.07 E Start    ID0:0.0  TaskService
+20230519 22.18.18 E Stop     ID0:0.0  TaskService
+20230519 22.18.19 E Start    ID0:0.0  TaskService
+20230519 22.18.40 E Stop     ID0:0.0  TaskService
+20230519 22.18.54 E Start    ID0:0.0  TaskService
+20230519 22.18.55 E Stop     ID0:0.0  TaskService
+20230519 22.18.55 E Start    ID0:0.0  TaskService
+20230519 22.19.00 E Stop     ID0:0.0  TaskService
+20230519 22.19.01 E Start    ID0:0.0  TaskService
+20230519 22.19.03 T Running  ID2      Timer
+20230519 22.19.03 T Running  ID4:2    Test
+20230519 22.19.03 A OK       ID2.1    Timer.Perform Task, Test
+20230519 22.19.03 T ExitOK   ID2      Timer
+20230519 22.19.03 A Disabled ID4:2.1  Test.Launch App
+20230519 22.19.03 A Disabled ID4:2.2  Test.Wait
+20230519 22.19.03 A OK       ID4:2.3  Test.Goto
+20230519 22.19.10 A OK       ID4:2.11 Test.Wait
+20230519 22.19.10 T ExitOK   ID4:2    Test
+20230519 22.19.34 T Running  ID4:3    Test
+20230519 22.19.34 A Disabled ID4:3.1  Test.Launch App
+20230519 22.19.34 A Disabled ID4:3.2  Test.Wait
+20230519 22.19.34 A OK       ID4:3.3  Test.Goto
+20230519 22.20.14 A OK       ID4:3.11 Test.Wait
+20230519 22.20.14 T ExitOK   ID4:3    Test
+20230519 22.20.16 T Running  ID4:4    Test
+20230519 22.20.16 A Disabled ID4:4.1  Test.Launch App
+20230519 22.20.16 A Disabled ID4:4.2  Test.Wait
+20230519 22.20.16 A OK       ID4:4.3  Test.Goto
+20230519 22.21.00 A OK       ID4:4.11 Test.Wait
+20230519 22.21.00 T ExitOK   ID4:4    Test
+20230519 22.21.04 T Running  ID4:5    Test
+20230519 22.21.04 A Disabled ID4:5.1  Test.Launch App
+20230519 22.21.04 A Disabled ID4:5.2  Test.Wait
+20230519 22.21.04 A OK       ID4:5.3  Test.Goto
+20230519 22.21.43 A OK       ID4:5.11 Test.Wait
+20230519 22.21.43 T ExitOK   ID4:5    Test
+20230519 22.21.45 E Stop     ID0:0.0  TaskService
+20230519 22.21.46 M Stop     ID0:0.0  Monitor
+20230519 22.21.48 E Start    ID0:0.0  TaskService
+20230519 22.21.49 T Running  ID2      Timer
+20230519 22.21.53 A OK       ID2.1    Timer.Wait
+20230519 22.21.53 T ExitOK   ID2      Timer
+20230519 22.21.54 T Running  ID2:2    Timer
+20230519 22.21.56 A OK       ID2:2.1  Timer.Wait
+20230519 22.21.56 T ExitOK   ID2:2    Timer
+20230519 22.21.57 T Running  ID2:3    Timer
+20230519 22.21.58 A OK       ID2:3.1  Timer.Wait
+20230519 22.21.58 T ExitOK   ID2:3    Timer
+20230519 22.21.59 T Running  ID2:4    Timer
+20230519 22.21.59 T RejOff   ID4      Test
+20230519 22.21.59 A Err      ID2:4.1  Timer.Perform Task, Test
+20230519 22.21.59 T ExitErr  ID2:4    Timer
+20230519 22.22.03 E Stop     ID0:0.0  TaskService
+20230519 22.22.07 E Start    ID0:0.0  TaskService
+20230519 22.22.09 T Running  ID4      Test
+20230519 22.22.09 A Disabled ID4.1    Test.Launch App
+20230519 22.22.09 M Start    ID0:0.0  Monitor
+20230519 22.22.09 A Disabled ID4.2    Test.Wait
+20230519 22.22.09 A OK       ID4.3    Test.Goto
+20230519 22.22.21 A OK       ID4.11   Test.Wait
+20230519 22.22.21 T ExitOK   ID4      Test
+20230519 22.22.30 T Running  ID4:2    Test
+20230519 22.22.30 A Disabled ID4:2.1  Test.Launch App
+20230519 22.22.30 A Disabled ID4:2.2  Test.Wait
+20230519 22.22.30 A OK       ID4:2.3  Test.Goto
+20230519 22.22.35 A OK       ID4:2.11 Test.Wait
+20230519 22.22.35 T ExitOK   ID4:2    Test
+20230519 22.22.50 T Running  ID4:3    Test
+20230519 22.22.50 A Disabled ID4:3.1  Test.Launch App
+20230519 22.22.50 A Disabled ID4:3.2  Test.Wait
+20230519 22.22.50 A IfFail   ID4:3.3  Test.Goto
+20230519 22.22.50 A OK       ID4:3.4  Test.If
+20230519 22.22.53 A OK       ID4:3.5  Test.Wait
+20230519 22.22.53 A OK       ID4:3.6  Test.If
+20230519 22.22.53 A OK       ID4:3.7  Test.Wait
+20230519 22.22.53 T ExitOK   ID4:3    Test
+20230519 22.22.57 T Running  ID4:4    Test
+20230519 22.22.57 A Disabled ID4:4.1  Test.Launch App
+20230519 22.22.57 A Disabled ID4:4.2  Test.Wait
+20230519 22.22.57 A IfFail   ID4:4.3  Test.Goto
+20230519 22.22.57 A OK       ID4:4.4  Test.If
+20230519 22.22.58 A OK       ID4:4.5  Test.Wait
+20230519 22.22.58 T ExitOK   ID4:4    Test
+20230519 22.24.24 T Running  ID4:5    Test
+20230519 22.24.24 A Disabled ID4:5.1  Test.Launch App
+20230519 22.24.24 A Disabled ID4:5.2  Test.Wait
+20230519 22.24.24 A IfFail   ID4:5.3  Test.Goto
+20230519 22.24.24 A OK       ID4:5.4  Test.If
+20230519 22.24.27 A OK       ID4:5.5  Test.Wait
+20230519 22.24.27 A OK       ID4:5.6  Test.If
+20230519 22.24.28 A OK       ID4:5.7  Test.Wait
+20230519 22.24.28 T ExitOK   ID4:5    Test
+20230519 22.24.43 T Running  ID4:6    Test
+20230519 22.24.43 A Disabled ID4:6.1  Test.Launch App
+20230519 22.24.43 A Disabled ID4:6.2  Test.Wait
+20230519 22.24.43 A IfFail   ID4:6.3  Test.Goto
+20230519 22.24.43 A OK       ID4:6.4  Test.If
+20230519 22.24.44 A OK       ID4:6.5  Test.Wait
+20230519 22.24.44 T ExitOK   ID4:6    Test
+20230519 22.24.55 T Running  ID4:7    Test
+20230519 22.24.55 A Disabled ID4:7.1  Test.Launch App
+20230519 22.24.55 A Disabled ID4:7.2  Test.Wait
+20230519 22.24.56 A IfFail   ID4:7.3  Test.Goto
+20230519 22.24.56 A OK       ID4:7.4  Test.If
+20230519 22.24.57 A OK       ID4:7.5  Test.Wait
+20230519 22.24.57 T ExitOK   ID4:7    Test
+20230519 22.25.07 T Running  ID4:8    Test
+20230519 22.25.07 A Disabled ID4:8.1  Test.Launch App
+20230519 22.25.07 A Disabled ID4:8.2  Test.Wait
+20230519 22.25.07 A OK       ID4:8.3  Test.Goto
+20230519 22.25.08 A OK       ID4:8.11 Test.Wait
+20230519 22.25.08 T ExitOK   ID4:8    Test
+20230519 22.26.01 T Running  ID4:9    Test
+20230519 22.26.01 A Disabled ID4:9.1  Test.Launch App
+20230519 22.26.01 A Disabled ID4:9.2  Test.Wait
+20230519 22.26.01 A OK       ID4:9.3  Test.Goto
+20230519 22.26.04 A OK       ID4:9.11 Test.Wait
+20230519 22.26.04 T ExitOK   ID4:9    Test
+20230519 22.26.15 T Running  ID4:10   Test
+20230519 22.26.15 A Disabled ID4:10.1 Test.Launch App
+20230519 22.26.15 A Disabled ID4:10.2 Test.Wait
+20230519 22.26.15 A IfFail   ID4:10.3 Test.Goto
+20230519 22.26.15 A OK       ID4:10.4 Test.If
+20230519 22.26.15 T ExitOK   ID4:10   Test
+20230519 22.26.21 T Running  ID4:11   Test
+20230519 22.26.21 A Disabled ID4:11.1 Test.Launch App
+20230519 22.26.21 A Disabled ID4:11.2 Test.Wait
+20230519 22.26.21 A IfFail   ID4:11.3 Test.Goto
+20230519 22.26.21 A OK       ID4:11.4 Test.If
+20230519 22.26.21 T ExitOK   ID4:11   Test
+20230519 22.26.23 T Running  ID4:12   Test
+20230519 22.26.23 A Disabled ID4:12.1 Test.Launch App
+20230519 22.26.23 A Disabled ID4:12.2 Test.Wait
+20230519 22.26.23 A IfFail   ID4:12.3 Test.Goto
+20230519 22.26.23 A OK       ID4:12.4 Test.If
+20230519 22.26.23 T ExitOK   ID4:12   Test
+20230519 22.26.24 T Running  ID4:13   Test
+20230519 22.26.24 A Disabled ID4:13.1 Test.Launch App
+20230519 22.26.24 A Disabled ID4:13.2 Test.Wait
+20230519 22.26.24 A IfFail   ID4:13.3 Test.Goto
+20230519 22.26.24 A OK       ID4:13.4 Test.If
+20230519 22.26.24 T ExitOK   ID4:13   Test
+20230519 22.26.26 E Stop     ID0:0.0  TaskService
+20230519 22.26.27 E Start    ID0:0.0  TaskService
+20230519 22.26.28 T Running  ID4      Test
+20230519 22.26.28 A Disabled ID4.1    Test.Launch App
+20230519 22.26.28 A Disabled ID4.2    Test.Wait
+20230519 22.26.28 A IfFail   ID4.3    Test.Goto
+20230519 22.26.28 A OK       ID4.4    Test.If
+20230519 22.26.28 T ExitOK   ID4      Test
+20230519 22.26.42 T Running  ID4:2    Test
+20230519 22.26.42 A Disabled ID4:2.1  Test.Launch App
+20230519 22.26.42 A Disabled ID4:2.2  Test.Wait
+20230519 22.26.42 A IfFail   ID4:2.3  Test.Goto
+20230519 22.26.42 A OK       ID4:2.4  Test.If
+20230519 22.26.42 T ExitOK   ID4:2    Test
+20230519 22.27.46 T Running  ID4:3    Test
+20230519 22.27.46 A Disabled ID4:3.1  Test.Launch App
+20230519 22.27.46 A Disabled ID4:3.2  Test.Wait
+20230519 22.27.46 A IfFail   ID4:3.3  Test.Goto
+20230519 22.27.46 A OK       ID4:3.4  Test.If
+20230519 22.27.46 T ExitOK   ID4:3    Test
+20230519 22.27.58 T Running  ID4:4    Test
+20230519 22.27.58 A Disabled ID4:4.1  Test.Launch App
+20230519 22.27.58 A Disabled ID4:4.2  Test.Wait
+20230519 22.27.58 A OK       ID4:4.3  Test.Goto
+20230519 22.28.01 A OK       ID4:4.11 Test.Wait
+20230519 22.28.01 T ExitOK   ID4:4    Test
+20230519 22.28.11 T Running  ID4:5    Test
+20230519 22.28.11 A Disabled ID4:5.1  Test.Launch App
+20230519 22.28.11 A Disabled ID4:5.2  Test.Wait
+20230519 22.28.11 A OK       ID4:5.3  Test.Goto
+20230519 22.28.13 A OK       ID4:5.11 Test.Wait
+20230519 22.28.13 T ExitOK   ID4:5    Test
+20230519 22.31.05 T Running  ID4:6    Test
+20230519 22.31.05 A Disabled ID4:6.1  Test.Launch App
+20230519 22.31.05 A Disabled ID4:6.2  Test.Wait
+20230519 22.31.05 A OK       ID4:6.3  Test.If
+20230519 22.31.05 T ExitOK   ID4:6    Test
+20230519 22.31.14 T Running  ID4:7    Test
+20230519 22.31.14 A Disabled ID4:7.1  Test.Launch App
+20230519 22.31.14 A Disabled ID4:7.2  Test.Wait
+20230519 22.31.14 A OK       ID4:7.3  Test.If
+20230519 22.31.14 T ExitOK   ID4:7    Test
+20230519 22.31.17 E Stop     ID0:0.0  TaskService
+20230519 22.31.18 E Start    ID0:0.0  TaskService
+20230519 22.31.19 T Running  ID4      Test
+20230519 22.31.19 A Disabled ID4.1    Test.Launch App
+20230519 22.31.19 A Disabled ID4.2    Test.Wait
+20230519 22.31.19 A OK       ID4.3    Test.If
+20230519 22.31.19 T ExitOK   ID4      Test
+20230519 22.31.21 T Running  ID4:2    Test
+20230519 22.31.21 A Disabled ID4:2.1  Test.Launch App
+20230519 22.31.21 A Disabled ID4:2.2  Test.Wait
+20230519 22.31.21 A OK       ID4:2.3  Test.If
+20230519 22.31.21 T ExitOK   ID4:2    Test
+20230519 22.31.33 T Running  ID4:3    Test
+20230519 22.31.33 A Disabled ID4:3.1  Test.Launch App
+20230519 22.31.34 A Disabled ID4:3.2  Test.Wait
+20230519 22.31.34 A OK       ID4:3.3  Test.If
+20230519 22.31.34 A OK       ID4:3.4  Test.Goto
+20230519 22.31.36 A OK       ID4:3.11 Test.Wait
+20230519 22.31.36 T ExitOK   ID4:3    Test
+20230519 22.31.42 T Running  ID4:4    Test
+20230519 22.31.42 A Disabled ID4:4.1  Test.Launch App
+20230519 22.31.42 A Disabled ID4:4.2  Test.Wait
+20230519 22.31.42 A OK       ID4:4.3  Test.If
+20230519 22.31.42 A OK       ID4:4.4  Test.Goto
+20230519 22.31.43 A OK       ID4:4.11 Test.Wait
+20230519 22.31.43 T ExitOK   ID4:4    Test
+20230519 22.31.47 T Running  ID4:5    Test
+20230519 22.31.47 A Disabled ID4:5.1  Test.Launch App
+20230519 22.31.47 A Disabled ID4:5.2  Test.Wait
+20230519 22.31.47 A OK       ID4:5.3  Test.If
+20230519 22.31.47 A OK       ID4:5.4  Test.Goto
+20230519 22.31.52 A OK       ID4:5.11 Test.Wait
+20230519 22.31.52 T ExitOK   ID4:5    Test
+20230519 22.32.00 T Running  ID4:6    Test
+20230519 22.32.00 A Disabled ID4:6.1  Test.Launch App
+20230519 22.32.00 A Disabled ID4:6.2  Test.Wait
+20230519 22.32.00 A OK       ID4:6.3  Test.If
+20230519 22.32.00 T ExitOK   ID4:6    Test
+20230519 22.32.09 T Running  ID4:7    Test
+20230519 22.32.09 A Disabled ID4:7.1  Test.Launch App
+20230519 22.32.09 A Disabled ID4:7.2  Test.Wait
+20230519 22.32.09 A OK       ID4:7.3  Test.If
+20230519 22.32.09 T ExitOK   ID4:7    Test
+20230519 22.32.15 T Running  ID4:8    Test
+20230519 22.32.15 A Disabled ID4:8.1  Test.Launch App
+20230519 22.32.15 A Disabled ID4:8.2  Test.Wait
+20230519 22.32.15 A OK       ID4:8.3  Test.If
+20230519 22.32.15 T ExitOK   ID4:8    Test
+20230519 22.32.20 T Running  ID4:9    Test
+20230519 22.32.20 A Disabled ID4:9.1  Test.Launch App
+20230519 22.32.20 A Disabled ID4:9.2  Test.Wait
+20230519 22.32.20 A OK       ID4:9.3  Test.If
+20230519 22.32.20 T ExitOK   ID4:9    Test
+20230519 22.33.02 T Running  ID4:10   Test
+20230519 22.33.02 A Disabled ID4:10.1 Test.Launch App
+20230519 22.33.02 A Disabled ID4:10.2 Test.Wait
+20230519 22.33.02 A OK       ID4:10.3 Test.If
+20230519 22.33.02 A OK       ID4:10.4 Test.Goto
+20230519 22.33.03 A OK       ID4:10.11 Test.Wait
+20230519 22.33.03 T ExitOK   ID4:10   Test
+20230519 22.33.05 T Running  ID4:11   Test
+20230519 22.33.05 A Disabled ID4:11.1 Test.Launch App
+20230519 22.33.05 A Disabled ID4:11.2 Test.Wait
+20230519 22.33.05 A OK       ID4:11.3 Test.If
+20230519 22.33.05 A OK       ID4:11.4 Test.Goto
+20230519 22.33.07 A OK       ID4:11.11 Test.Wait
+20230519 22.33.07 T ExitOK   ID4:11   Test
+20230519 22.33.15 T Running  ID4:12   Test
+20230519 22.33.15 A Disabled ID4:12.1 Test.Launch App
+20230519 22.33.15 A Disabled ID4:12.2 Test.Wait
+20230519 22.33.15 A OK       ID4:12.3 Test.If
+20230519 22.33.16 A OK       ID4:12.4 Test.Goto
+20230519 22.33.16 A OK       ID4:12.11 Test.Wait
+20230519 22.33.16 T ExitOK   ID4:12   Test
+20230519 22.33.20 T Running  ID4:13   Test
+20230519 22.33.20 A Disabled ID4:13.1 Test.Launch App
+20230519 22.33.20 A Disabled ID4:13.2 Test.Wait
+20230519 22.33.20 A OK       ID4:13.3 Test.If
+20230519 22.33.20 A OK       ID4:13.4 Test.Goto
+20230519 22.33.21 A OK       ID4:13.11 Test.Wait
+20230519 22.33.21 T ExitOK   ID4:13   Test
+20230519 22.33.22 T Running  ID4:14   Test
+20230519 22.33.22 A Disabled ID4:14.1 Test.Launch App
+20230519 22.33.22 A Disabled ID4:14.2 Test.Wait
+20230519 22.33.22 A OK       ID4:14.3 Test.If
+20230519 22.33.22 A OK       ID4:14.4 Test.Goto
+20230519 22.33.24 A OK       ID4:14.11 Test.Wait
+20230519 22.33.24 T ExitOK   ID4:14   Test
+20230519 22.33.27 T Running  ID4:15   Test
+20230519 22.33.27 A Disabled ID4:15.1 Test.Launch App
+20230519 22.33.27 A Disabled ID4:15.2 Test.Wait
+20230519 22.33.27 A OK       ID4:15.3 Test.If
+20230519 22.33.27 A OK       ID4:15.4 Test.Goto
+20230519 22.33.29 A OK       ID4:15.11 Test.Wait
+20230519 22.33.29 T ExitOK   ID4:15   Test
+20230519 22.33.53 T Running  ID4:16   Test
+20230519 22.33.53 A Disabled ID4:16.1 Test.Launch App
+20230519 22.33.53 A Disabled ID4:16.2 Test.Wait
+20230519 22.33.53 A OK       ID4:16.3 Test.If
+20230519 22.33.53 T ExitOK   ID4:16   Test
+20230519 22.34.06 T Running  ID4:17   Test
+20230519 22.34.06 A Disabled ID4:17.1 Test.Launch App
+20230519 22.34.06 A Disabled ID4:17.2 Test.Wait
+20230519 22.34.06 A OK       ID4:17.3 Test.If
+20230519 22.34.06 T ExitOK   ID4:17   Test
+20230519 22.39.12 E Stop     ID0:0.0  TaskService
+20230519 22.39.13 E Start    ID0:0.0  TaskService
+20230519 22.39.18 E Stop     ID0:0.0  TaskService
+20230519 22.39.25 E Start    ID0:0.0  TaskService
+20230519 22.39.44 E Stop     ID0:0.0  TaskService
+20230519 22.39.49 E Start    ID0:0.0  TaskService
+20230519 22.40.17 E Stop     ID0:0.0  TaskService
+20230519 22.40.18 E Start    ID0:0.0  TaskService
+20230519 22.40.22 E Stop     ID0:0.0  TaskService
+20230519 22.40.22 E Start    ID0:0.0  TaskService
+20230519 22.40.23 T Running  ID5      If Go
+20230519 22.40.23 A Err      ID5.1    If Go.Goto
+20230519 22.40.23 T ExitErr  ID5      If Go
+20230519 22.40.27 T Running  ID5:2    If Go
+20230519 22.40.27 A Err      ID5:2.1  If Go.Goto
+20230519 22.40.27 T ExitErr  ID5:2    If Go
+20230519 22.40.44 E Stop     ID0:0.0  TaskService
+20230519 22.40.46 E Start    ID0:0.0  TaskService
+20230519 22.41.08 E Stop     ID0:0.0  TaskService
+20230519 22.41.09 E Start    ID0:0.0  TaskService
+20230519 22.41.10 E Stop     ID0:0.0  TaskService
+20230519 22.41.10 E Start    ID0:0.0  TaskService
+20230519 22.41.44 T Running  ID4      Test
+20230519 22.41.44 A Disabled ID4.1    Test.Launch App
+20230519 22.41.44 A Disabled ID4.2    Test.Wait
+20230519 22.41.44 A IfFail   ID4.3    Test.Goto
+20230519 22.41.44 A OK       ID4.4    Test.If
+20230519 22.41.44 T ExitOK   ID4      Test
+20230519 22.41.47 T Running  ID4:2    Test
+20230519 22.41.47 A Disabled ID4:2.1  Test.Launch App
+20230519 22.41.47 A Disabled ID4:2.2  Test.Wait
+20230519 22.41.47 A IfFail   ID4:2.3  Test.Goto
+20230519 22.41.47 A OK       ID4:2.4  Test.If
+20230519 22.41.47 T ExitOK   ID4:2    Test
+20230519 22.41.49 T Running  ID4:3    Test
+20230519 22.41.49 A Disabled ID4:3.1  Test.Launch App
+20230519 22.41.49 A Disabled ID4:3.2  Test.Wait
+20230519 22.41.49 A IfFail   ID4:3.3  Test.Goto
+20230519 22.41.49 A OK       ID4:3.4  Test.If
+20230519 22.41.49 T ExitOK   ID4:3    Test
+20230519 22.41.56 T Running  ID4:4    Test
+20230519 22.41.56 A Disabled ID4:4.1  Test.Launch App
+20230519 22.41.56 A Disabled ID4:4.2  Test.Wait
+20230519 22.41.56 A IfFail   ID4:4.3  Test.Goto
+20230519 22.41.56 A Disabled ID4:4.4  Test.If
+20230519 22.41.57 A OK       ID4:4.5  Test.Wait
+20230519 22.41.57 T ExitOK   ID4:4    Test
+20230519 22.42.04 T Running  ID4:5    Test
+20230519 22.42.04 A Disabled ID4:5.1  Test.Launch App
+20230519 22.42.04 A Disabled ID4:5.2  Test.Wait
+20230519 22.42.04 A OK       ID4:5.3  Test.Goto
+20230519 22.42.06 A OK       ID4:5.11 Test.Wait
+20230519 22.42.06 T ExitOK   ID4:5    Test
+20230519 22.42.32 T Running  ID4:6    Test
+20230519 22.42.32 A Disabled ID4:6.1  Test.Launch App
+20230519 22.42.32 A Disabled ID4:6.2  Test.Wait
+20230519 22.42.32 A OK       ID4:6.3  Test.Goto
+20230519 22.42.34 A OK       ID4:6.11 Test.Wait
+20230519 22.42.34 T ExitOK   ID4:6    Test
+20230519 22.49.48 T Running  ID4:7    Test
+20230519 22.49.48 A Disabled ID4:7.1  Test.Launch App
+20230519 22.49.48 A Disabled ID4:7.2  Test.Wait
+20230519 22.49.48 A IfFail   ID4:7.3  Test.Goto
+20230519 22.49.48 A Disabled ID4:7.4  Test.If
+20230519 22.49.50 A OK       ID4:7.5  Test.Wait
+20230519 22.49.50 T ExitOK   ID4:7    Test
+20230519 22.49.54 T Running  ID4:8    Test
+20230519 22.49.54 A Disabled ID4:8.1  Test.Launch App
+20230519 22.49.54 A Disabled ID4:8.2  Test.Wait
+20230519 22.49.54 A IfFail   ID4:8.3  Test.Goto
+20230519 22.49.54 A Disabled ID4:8.4  Test.If
+20230519 22.49.56 A OK       ID4:8.5  Test.Wait
+20230519 22.49.56 T ExitOK   ID4:8    Test
+20230519 22.50.06 T Running  ID4:9    Test
+20230519 22.50.06 A Disabled ID4:9.1  Test.Launch App
+20230519 22.50.06 A Disabled ID4:9.2  Test.Wait
+20230519 22.50.06 A IfFail   ID4:9.3  Test.Goto
+20230519 22.50.06 A Disabled ID4:9.4  Test.If
+20230519 22.50.07 A OK       ID4:9.5  Test.Wait
+20230519 22.50.07 T ExitOK   ID4:9    Test
+20230519 22.50.15 T Running  ID4:10   Test
+20230519 22.50.15 A Disabled ID4:10.1 Test.Launch App
+20230519 22.50.15 A Disabled ID4:10.2 Test.Wait
+20230519 22.50.15 A IfFail   ID4:10.3 Test.Goto
+20230519 22.50.15 A Disabled ID4:10.4 Test.If
+20230519 22.50.16 A OK       ID4:10.5 Test.Wait
+20230519 22.50.16 T ExitOK   ID4:10   Test
+20230519 22.50.19 T Running  ID4:11   Test
+20230519 22.50.19 A Disabled ID4:11.1 Test.Launch App
+20230519 22.50.19 A Disabled ID4:11.2 Test.Wait
+20230519 22.50.19 A IfFail   ID4:11.3 Test.Goto
+20230519 22.50.19 A Disabled ID4:11.4 Test.If
+20230519 22.50.20 A OK       ID4:11.5 Test.Wait
+20230519 22.50.20 T ExitOK   ID4:11   Test
+20230519 22.50.30 T Running  ID4:12   Test
+20230519 22.50.30 A Disabled ID4:12.1 Test.Launch App
+20230519 22.50.30 A Disabled ID4:12.2 Test.Wait
+20230519 22.50.30 A OK       ID4:12.3 Test.Goto
+20230519 22.50.30 A IfFail   ID4:12.11 Test.Wait
+20230519 22.50.30 A Disabled ID4:12.12 Test.Bluetooth
+20230519 22.50.30 A Disabled ID4:12.13 Test.Call
+20230519 22.50.30 A OK       ID4:12.14 Test.End If
+20230519 22.50.30 A OK       ID4:12.15 Test.End If
+20230519 22.50.30 A OK       ID4:12.16 Test.End If
+20230519 22.50.30 A OK       ID4:12.17 Test.End If
+20230519 22.50.30 T ExitOK   ID4:12   Test
+20230519 22.51.00 T Running  ID4:13   Test
+20230519 22.51.00 A Disabled ID4:13.1 Test.Launch App
+20230519 22.51.00 A Disabled ID4:13.2 Test.Wait
+20230519 22.51.00 A IfFail   ID4:13.3 Test.Goto
+20230519 22.51.00 A Disabled ID4:13.4 Test.If
+20230519 22.51.01 A OK       ID4:13.5 Test.Wait
+20230519 22.51.01 T ExitOK   ID4:13   Test
+20230519 22.51.07 T Running  ID4:14   Test
+20230519 22.51.07 A Disabled ID4:14.1 Test.Launch App
+20230519 22.51.07 A Disabled ID4:14.2 Test.Wait
+20230519 22.51.07 A OK       ID4:14.3 Test.Goto
+20230519 22.51.07 A IfFail   ID4:14.11 Test.Wait
+20230519 22.51.07 A Disabled ID4:14.12 Test.Bluetooth
+20230519 22.51.07 A Disabled ID4:14.13 Test.Call
+20230519 22.51.07 A OK       ID4:14.14 Test.End If
+20230519 22.51.07 A OK       ID4:14.15 Test.End If
+20230519 22.51.07 A OK       ID4:14.16 Test.End If
+20230519 22.51.07 A OK       ID4:14.17 Test.End If
+20230519 22.51.07 T ExitOK   ID4:14   Test
+20230519 22.51.09 T Running  ID4:15   Test
+20230519 22.51.09 A Disabled ID4:15.1 Test.Launch App
+20230519 22.51.09 A Disabled ID4:15.2 Test.Wait
+20230519 22.51.09 A OK       ID4:15.3 Test.Goto
+20230519 22.51.09 A IfFail   ID4:15.11 Test.Wait
+20230519 22.51.09 A Disabled ID4:15.12 Test.Bluetooth
+20230519 22.51.09 A Disabled ID4:15.13 Test.Call
+20230519 22.51.09 A OK       ID4:15.14 Test.End If
+20230519 22.51.09 A OK       ID4:15.15 Test.End If
+20230519 22.51.09 A OK       ID4:15.16 Test.End If
+20230519 22.51.09 A OK       ID4:15.17 Test.End If
+20230519 22.51.09 T ExitOK   ID4:15   Test
+20230519 22.51.18 T Running  ID4:16   Test
+20230519 22.51.18 A Disabled ID4:16.1 Test.Launch App
+20230519 22.51.18 A Disabled ID4:16.2 Test.Wait
+20230519 22.51.18 A OK       ID4:16.3 Test.Goto
+20230519 22.51.18 A IfFail   ID4:16.11 Test.Wait
+20230519 22.51.18 A Disabled ID4:16.12 Test.Bluetooth
+20230519 22.51.18 A Disabled ID4:16.13 Test.Call
+20230519 22.51.18 A OK       ID4:16.14 Test.End If
+20230519 22.51.18 A OK       ID4:16.15 Test.End If
+20230519 22.51.18 A OK       ID4:16.16 Test.End If
+20230519 22.51.18 A OK       ID4:16.17 Test.End If
+20230519 22.51.18 T ExitOK   ID4:16   Test
+20230519 22.51.21 E Stop     ID0:0.0  TaskService
+20230519 22.51.22 M Stop     ID0:0.0  Monitor
+20230519 22.51.29 E Start    ID0:0.0  TaskService
+20230519 22.51.31 T Running  ID4      Test
+20230519 22.51.31 A Disabled ID4.1    Test.Launch App
+20230519 22.51.31 A Disabled ID4.2    Test.Wait
+20230519 22.51.31 M Start    ID0:0.0  Monitor
+20230519 22.51.31 A OK       ID4.3    Test.Goto
+20230519 22.51.31 A IfFail   ID4.11   Test.Wait
+20230519 22.51.31 A Disabled ID4.12   Test.Bluetooth
+20230519 22.51.32 A Disabled ID4.13   Test.Call
+20230519 22.51.32 A OK       ID4.14   Test.End If
+20230519 22.51.32 A OK       ID4.15   Test.End If
+20230519 22.51.32 A OK       ID4.16   Test.End If
+20230519 22.51.32 A OK       ID4.17   Test.End If
+20230519 22.51.32 T ExitOK   ID4      Test
+20230519 22.51.45 T Running  ID4:2    Test
+20230519 22.51.45 A Disabled ID4:2.1  Test.Launch App
+20230519 22.51.45 A Disabled ID4:2.2  Test.Wait
+20230519 22.51.45 A OK       ID4:2.3  Test.Goto
+20230519 22.51.45 A IfFail   ID4:2.11 Test.Wait
+20230519 22.51.45 A Disabled ID4:2.12 Test.Bluetooth
+20230519 22.51.45 A Disabled ID4:2.13 Test.Call
+20230519 22.51.45 A OK       ID4:2.14 Test.End If
+20230519 22.51.45 A OK       ID4:2.15 Test.End If
+20230519 22.51.45 A OK       ID4:2.16 Test.End If
+20230519 22.51.45 A OK       ID4:2.17 Test.End If
+20230519 22.51.45 T ExitOK   ID4:2    Test
+20230519 22.53.20 T Running  ID4:3    Test
+20230519 22.53.20 A Disabled ID4:3.1  Test.Launch App
+20230519 22.53.20 A Disabled ID4:3.2  Test.Wait
+20230519 22.53.20 A OK       ID4:3.3  Test.Goto
+20230519 22.53.20 A IfFail   ID4:3.11 Test.Wait
+20230519 22.53.20 A Disabled ID4:3.12 Test.Bluetooth
+20230519 22.53.20 A Disabled ID4:3.13 Test.Call
+20230519 22.53.20 A OK       ID4:3.14 Test.End If
+20230519 22.53.20 A OK       ID4:3.15 Test.End If
+20230519 22.53.20 A OK       ID4:3.16 Test.End If
+20230519 22.53.20 A OK       ID4:3.17 Test.End If
+20230519 22.53.20 T ExitOK   ID4:3    Test
+20230519 22.53.34 T Running  ID4:4    Test
+20230519 22.53.34 A Disabled ID4:4.1  Test.Launch App
+20230519 22.53.34 A Disabled ID4:4.2  Test.Wait
+20230519 22.53.34 A OK       ID4:4.3  Test.Goto
+20230519 22.53.34 A IfFail   ID4:4.11 Test.Wait
+20230519 22.53.34 A Disabled ID4:4.12 Test.Bluetooth
+20230519 22.53.34 A Disabled ID4:4.13 Test.Call
+20230519 22.53.34 A OK       ID4:4.14 Test.End If
+20230519 22.53.34 A OK       ID4:4.15 Test.End If
+20230519 22.53.34 A OK       ID4:4.16 Test.End If
+20230519 22.53.34 A OK       ID4:4.17 Test.End If
+20230519 22.53.34 T ExitOK   ID4:4    Test
+20230519 22.53.57 T Running  ID4:5    Test
+20230519 22.53.57 A Disabled ID4:5.1  Test.Launch App
+20230519 22.53.57 A Disabled ID4:5.2  Test.Wait
+20230519 22.53.57 A OK       ID4:5.3  Test.Goto
+20230519 22.54.05 A OK       ID4:5.11 Test.Wait
+20230519 22.54.05 T ExitOK   ID4:5    Test
+20230519 22.54.16 T Running  ID4:6    Test
+20230519 22.54.16 A Disabled ID4:6.1  Test.Launch App
+20230519 22.54.16 A Disabled ID4:6.2  Test.Wait
+20230519 22.54.16 A OK       ID4:6.3  Test.Goto
+20230519 22.54.18 A OK       ID4:6.11 Test.Wait
+20230519 22.54.18 T ExitOK   ID4:6    Test
+20230519 22.54.29 T Running  ID4:7    Test
+20230519 22.54.29 A Disabled ID4:7.1  Test.Launch App
+20230519 22.54.29 A Disabled ID4:7.2  Test.Wait
+20230519 22.54.29 A OK       ID4:7.3  Test.Goto
+20230519 22.54.31 A OK       ID4:7.11 Test.Wait
+20230519 22.54.31 T ExitOK   ID4:7    Test
+20230519 22.54.39 T Running  ID4:8    Test
+20230519 22.54.39 A Disabled ID4:8.1  Test.Launch App
+20230519 22.54.39 A Disabled ID4:8.2  Test.Wait
+20230519 22.54.39 A IfFail   ID4:8.3  Test.Goto
+20230519 22.54.39 A OK       ID4:8.4  Test.If
+20230519 22.54.39 A Disabled ID4:8.5  Test.If
+20230519 22.54.42 A OK       ID4:8.6  Test.Wait
+20230519 22.54.42 A OK       ID4:8.7  Test.If
+20230519 22.54.42 A OK       ID4:8.16 Test.End If
+20230519 22.54.42 A OK       ID4:8.17 Test.End If
+20230519 22.54.42 T ExitOK   ID4:8    Test
+20230519 22.54.50 T Running  ID4:9    Test
+20230519 22.54.50 A Disabled ID4:9.1  Test.Launch App
+20230519 22.54.50 A Disabled ID4:9.2  Test.Wait
+20230519 22.54.50 A IfFail   ID4:9.3  Test.Goto
+20230519 22.54.50 A OK       ID4:9.4  Test.If
+20230519 22.54.50 A Disabled ID4:9.5  Test.If
+20230519 22.54.51 A OK       ID4:9.6  Test.Wait
+20230519 22.54.51 T ExitOK   ID4:9    Test
+20230519 22.54.54 T Running  ID4:10   Test
+20230519 22.54.54 A Disabled ID4:10.1 Test.Launch App
+20230519 22.54.54 A Disabled ID4:10.2 Test.Wait
+20230519 22.54.54 A IfFail   ID4:10.3 Test.Goto
+20230519 22.54.54 A OK       ID4:10.4 Test.If
+20230519 22.54.54 A Disabled ID4:10.5 Test.If
+20230519 22.54.57 A OK       ID4:10.6 Test.Wait
+20230519 22.54.57 A OK       ID4:10.7 Test.If
+20230519 22.54.57 A OK       ID4:10.16 Test.End If
+20230519 22.54.57 A OK       ID4:10.17 Test.End If
+20230519 22.54.57 T ExitOK   ID4:10   Test
+20230519 22.54.58 T Running  ID4:11   Test
+20230519 22.54.58 A Disabled ID4:11.1 Test.Launch App
+20230519 22.54.58 A Disabled ID4:11.2 Test.Wait
+20230519 22.54.58 A IfFail   ID4:11.3 Test.Goto
+20230519 22.54.58 A OK       ID4:11.4 Test.If
+20230519 22.54.58 A Disabled ID4:11.5 Test.If
+20230519 22.54.59 A OK       ID4:11.6 Test.Wait
+20230519 22.54.59 T ExitOK   ID4:11   Test
+20230519 22.55.52 T Running  ID4:12   Test
+20230519 22.55.52 A Disabled ID4:12.1 Test.Launch App
+20230519 22.55.52 A Disabled ID4:12.2 Test.Wait
+20230519 22.55.52 A IfFail   ID4:12.3 Test.Goto
+20230519 22.55.52 A OK       ID4:12.4 Test.If
+20230519 22.55.52 A Disabled ID4:12.5 Test.If
+20230519 22.55.54 A OK       ID4:12.6 Test.Wait
+20230519 22.55.54 T ExitOK   ID4:12   Test
+20230519 22.56.32 T Running  ID4:13   Test
+20230519 22.56.32 A Disabled ID4:13.1 Test.Launch App
+20230519 22.56.32 A Disabled ID4:13.2 Test.Wait
+20230519 22.56.33 A IfFail   ID4:13.3 Test.Goto
+20230519 22.56.33 A OK       ID4:13.4 Test.If
+20230519 22.56.33 A Disabled ID4:13.5 Test.If
+20230519 22.56.34 A OK       ID4:13.6 Test.Wait
+20230519 22.56.34 T ExitOK   ID4:13   Test
+20230519 22.58.07 T Running  ID4:14   Test
+20230519 22.58.07 A Disabled ID4:14.1 Test.Launch App
+20230519 22.58.07 A Disabled ID4:14.2 Test.Wait
+20230519 22.58.07 A IfFail   ID4:14.3 Test.Goto
+20230519 22.58.07 A OK       ID4:14.4 Test.If
+20230519 22.58.07 A Disabled ID4:14.5 Test.If
+20230519 22.58.08 A OK       ID4:14.6 Test.Wait
+20230519 22.58.08 T ExitOK   ID4:14   Test
+20230519 22.58.32 T Running  ID4:15   Test
+20230519 22.58.32 A Disabled ID4:15.1 Test.Launch App
+20230519 22.58.32 A Disabled ID4:15.2 Test.Wait
+20230519 22.58.32 A IfFail   ID4:15.3 Test.Goto
+20230519 22.58.32 A OK       ID4:15.4 Test.If
+20230519 22.58.32 A Disabled ID4:15.5 Test.If
+20230519 22.58.33 A OK       ID4:15.6 Test.Wait
+20230519 22.58.33 T ExitOK   ID4:15   Test
+20230519 22.58.48 T Running  ID4:16   Test
+20230519 22.58.48 A Disabled ID4:16.1 Test.Launch App
+20230519 22.58.48 A Disabled ID4:16.2 Test.Wait
+20230519 22.58.48 A OK       ID4:16.3 Test.Goto
+20230519 22.58.51 A OK       ID4:16.11 Test.Wait
+20230519 22.58.51 T ExitOK   ID4:16   Test
+20230519 22.58.54 T Running  ID4:17   Test
+20230519 22.58.54 A Disabled ID4:17.1 Test.Launch App
+20230519 22.58.54 A Disabled ID4:17.2 Test.Wait
+20230519 22.58.54 A OK       ID4:17.3 Test.Goto
+20230519 22.58.57 A OK       ID4:17.11 Test.Wait
+20230519 22.58.57 T ExitOK   ID4:17   Test
+20230519 22.59.01 T Running  ID4:18   Test
+20230519 22.59.01 A Disabled ID4:18.1 Test.Launch App
+20230519 22.59.01 A Disabled ID4:18.2 Test.Wait
+20230519 22.59.01 A OK       ID4:18.3 Test.Goto
+20230519 22.59.03 A OK       ID4:18.11 Test.Wait
+20230519 22.59.03 T ExitOK   ID4:18   Test
+20230519 22.59.30 T Running  ID4:19   Test
+20230519 22.59.30 A Disabled ID4:19.1 Test.Launch App
+20230519 22.59.30 A Disabled ID4:19.2 Test.Wait
+20230519 22.59.30 A OK       ID4:19.3 Test.Goto
+20230519 22.59.32 A OK       ID4:19.11 Test.Wait
+20230519 22.59.32 T ExitOK   ID4:19   Test
+20230519 22.59.38 T Running  ID4:20   Test
+20230519 22.59.38 A Disabled ID4:20.1 Test.Launch App
+20230519 22.59.38 A Disabled ID4:20.2 Test.Wait
+20230519 22.59.38 A IfFail   ID4:20.3 Test.Goto
+20230519 22.59.38 A OK       ID4:20.4 Test.If
+20230519 22.59.38 A Disabled ID4:20.5 Test.If
+20230519 22.59.40 A OK       ID4:20.6 Test.Wait
+20230519 22.59.40 T ExitOK   ID4:20   Test
+20230519 22.59.43 T Running  ID4:21   Test
+20230519 22.59.43 A Disabled ID4:21.1 Test.Launch App
+20230519 22.59.43 A Disabled ID4:21.2 Test.Wait
+20230519 22.59.43 A IfFail   ID4:21.3 Test.Goto
+20230519 22.59.43 A OK       ID4:21.4 Test.If
+20230519 22.59.43 A Disabled ID4:21.5 Test.If
+20230519 22.59.45 A OK       ID4:21.6 Test.Wait
+20230519 22.59.45 T ExitOK   ID4:21   Test
+20230519 22.59.47 T Running  ID4:22   Test
+20230519 22.59.47 A Disabled ID4:22.1 Test.Launch App
+20230519 22.59.47 A Disabled ID4:22.2 Test.Wait
+20230519 22.59.47 A IfFail   ID4:22.3 Test.Goto
+20230519 22.59.47 A OK       ID4:22.4 Test.If
+20230519 22.59.47 A Disabled ID4:22.5 Test.If
+20230519 22.59.49 A OK       ID4:22.6 Test.Wait
+20230519 22.59.49 T ExitOK   ID4:22   Test
+20230519 23.00.03 T Running  ID4:23   Test
+20230519 23.00.03 A Disabled ID4:23.1 Test.Launch App
+20230519 23.00.03 A Disabled ID4:23.2 Test.Wait
+20230519 23.00.03 A OK       ID4:23.3 Test.Goto
+20230519 23.00.05 A OK       ID4:23.11 Test.Wait
+20230519 23.00.05 T ExitOK   ID4:23   Test
+20230519 23.06.18 E Stop     ID0:0.0  TaskService
+20230519 23.06.22 E Start    ID0:0.0  TaskService
+20230519 23.10.08 T Running  ID-5     Jhg
+20230519 23.10.08 A Disabled ID-5.1   Jhg.Wait
+20230519 23.10.08 A OK       ID-5.2   Jhg.Goto
+20230519 23.10.08 A IfFail   ID-5.11  Jhg.Wait
+20230519 23.10.08 A Disabled ID-5.12  Jhg.Bluetooth
+20230519 23.10.08 A OK       ID-5.13  Jhg.End If
+20230519 23.10.08 A OK       ID-5.14  Jhg.End If
+20230519 23.10.08 T ExitOK   ID-5     Jhg
+20230519 23.10.09 T Running  ID-5:2   Jhg
+20230519 23.10.09 A Disabled ID-5:2.1 Jhg.Wait
+20230519 23.10.09 A OK       ID-5:2.2 Jhg.Goto
+20230519 23.10.09 A IfFail   ID-5:2.11 Jhg.Wait
+20230519 23.10.09 A Disabled ID-5:2.12 Jhg.Bluetooth
+20230519 23.10.09 A OK       ID-5:2.13 Jhg.End If
+20230519 23.10.09 A OK       ID-5:2.14 Jhg.End If
+20230519 23.10.09 T ExitOK   ID-5:2   Jhg
+20230519 23.10.37 T Running  ID-5:3   Jhg
+20230519 23.10.37 A Disabled ID-5:3.1 Jhg.Wait
+20230519 23.10.37 A OK       ID-5:3.2 Jhg.Goto
+20230519 23.10.37 A IfFail   ID-5:3.11 Jhg.Wait
+20230519 23.10.37 A Disabled ID-5:3.12 Jhg.Bluetooth
+20230519 23.10.37 A OK       ID-5:3.13 Jhg.End If
+20230519 23.10.37 A OK       ID-5:3.14 Jhg.End If
+20230519 23.10.37 T ExitOK   ID-5:3   Jhg
+20230519 23.13.40 T Running  ID-5:4   Jhg
+20230519 23.13.40 A Disabled ID-5:4.1 Jhg.Wait
+20230519 23.13.40 A OK       ID-5:4.2 Jhg.Goto
+20230519 23.13.40 A IfFail   ID-5:4.11 Jhg.Wait
+20230519 23.13.40 A Disabled ID-5:4.12 Jhg.Bluetooth
+20230519 23.13.40 A OK       ID-5:4.13 Jhg.End If
+20230519 23.13.40 A OK       ID-5:4.14 Jhg.End If
+20230519 23.13.40 T ExitOK   ID-5:4   Jhg
+20230519 23.13.42 T Running  ID-5:5   Jhg
+20230519 23.13.42 A Disabled ID-5:5.1 Jhg.Wait
+20230519 23.13.42 A OK       ID-5:5.2 Jhg.Goto
+20230519 23.13.42 A IfFail   ID-5:5.11 Jhg.Wait
+20230519 23.13.42 A Disabled ID-5:5.12 Jhg.Bluetooth
+20230519 23.13.42 A OK       ID-5:5.13 Jhg.End If
+20230519 23.13.42 A OK       ID-5:5.14 Jhg.End If
+20230519 23.13.42 T ExitOK   ID-5:5   Jhg
+20230519 23.14.08 E Stop     ID0:0.0  TaskService
+20230519 23.14.11 E Start    ID0:0.0  TaskService
+20230519 23.14.14 E Stop     ID0:0.0  TaskService
+20230519 23.14.16 E Start    ID0:0.0  TaskService
+20230519 23.14.17 E Stop     ID0:0.0  TaskService
+20230519 23.14.18 E Start    ID0:0.0  TaskService
+20230519 23.15.49 T Running  ID6      Jhg
+20230519 23.15.49 A Disabled ID6.1    Jhg.Wait
+20230519 23.15.49 A IfFail   ID6.2    Jhg.Goto
+20230519 23.15.49 A Disabled ID6.3    Jhg.If
+20230519 23.15.50 A OK       ID6.4    Jhg.Wait
+20230519 23.15.50 T ExitOK   ID6      Jhg
+20230519 23.15.59 T Running  ID6:2    Jhg
+20230519 23.15.59 A Disabled ID6:2.1  Jhg.Wait
+20230519 23.15.59 A IfFail   ID6:2.2  Jhg.Goto
+20230519 23.15.59 A Disabled ID6:2.3  Jhg.If
+20230519 23.16.00 A OK       ID6:2.4  Jhg.Wait
+20230519 23.16.00 T ExitOK   ID6:2    Jhg
+20230519 23.16.06 T Running  ID6:3    Jhg
+20230519 23.16.06 A Disabled ID6:3.1  Jhg.Wait
+20230519 23.16.06 A IfFail   ID6:3.2  Jhg.Goto
+20230519 23.16.06 A Disabled ID6:3.3  Jhg.If
+20230519 23.16.07 A OK       ID6:3.4  Jhg.Wait
+20230519 23.16.07 T ExitOK   ID6:3    Jhg
+20230519 23.16.12 T Running  ID6:4    Jhg
+20230519 23.16.12 A Disabled ID6:4.1  Jhg.Wait
+20230519 23.16.12 A IfFail   ID6:4.2  Jhg.Goto
+20230519 23.16.12 A Disabled ID6:4.3  Jhg.If
+20230519 23.16.15 A OK       ID6:4.4  Jhg.Wait
+20230519 23.16.15 A OK       ID6:4.5  Jhg.If
+20230519 23.16.15 A OK       ID6:4.10 Jhg.If
+20230519 23.16.15 A IfFail   ID6:4.11 Jhg.Wait
+20230519 23.16.15 A Disabled ID6:4.12 Jhg.Bluetooth
+20230519 23.16.15 A OK       ID6:4.13 Jhg.End If
+20230519 23.16.15 A OK       ID6:4.14 Jhg.End If
+20230519 23.16.15 T ExitOK   ID6:4    Jhg
+20230519 23.17.00 T Running  ID6:5    Jhg
+20230519 23.17.00 A Disabled ID6:5.1  Jhg.Wait
+20230519 23.17.00 A IfFail   ID6:5.2  Jhg.Goto
+20230519 23.17.00 A Disabled ID6:5.3  Jhg.If
+20230519 23.17.03 A OK       ID6:5.4  Jhg.Wait
+20230519 23.17.03 A OK       ID6:5.5  Jhg.If
+20230519 23.17.03 A OK       ID6:5.10 Jhg.If
+20230519 23.17.03 A IfFail   ID6:5.11 Jhg.Wait
+20230519 23.17.03 A Disabled ID6:5.12 Jhg.Bluetooth
+20230519 23.17.03 A OK       ID6:5.13 Jhg.End If
+20230519 23.17.03 A OK       ID6:5.14 Jhg.End If
+20230519 23.17.03 T ExitOK   ID6:5    Jhg
+20230519 23.17.41 T Running  ID6:6    Jhg
+20230519 23.17.41 A Disabled ID6:6.1  Jhg.Wait
+20230519 23.17.41 A IfFail   ID6:6.2  Jhg.Goto
+20230519 23.17.41 A Disabled ID6:6.3  Jhg.If
+20230519 23.17.44 A OK       ID6:6.4  Jhg.Wait
+20230519 23.17.44 A OK       ID6:6.5  Jhg.If
+20230519 23.17.46 A OK       ID6:6.6  Jhg.Wait
+20230519 23.17.46 T ExitOK   ID6:6    Jhg
+20230519 23.17.56 T Running  ID6:7    Jhg
+20230519 23.17.56 A Disabled ID6:7.1  Jhg.Wait
+20230519 23.17.56 A IfFail   ID6:7.2  Jhg.Goto
+20230519 23.17.56 A Disabled ID6:7.3  Jhg.If
+20230519 23.17.58 A OK       ID6:7.4  Jhg.Wait
+20230519 23.17.58 T ExitOK   ID6:7    Jhg
+20230519 23.18.07 T Running  ID6:8    Jhg
+20230519 23.18.07 A Disabled ID6:8.1  Jhg.Wait
+20230519 23.18.07 A IfFail   ID6:8.2  Jhg.Goto
+20230519 23.18.07 A Disabled ID6:8.3  Jhg.If
+20230519 23.18.10 A OK       ID6:8.4  Jhg.Wait
+20230519 23.18.10 A OK       ID6:8.5  Jhg.If
+20230519 23.18.13 A OK       ID6:8.6  Jhg.Wait
+20230519 23.18.13 T ExitOK   ID6:8    Jhg
+20230519 23.19.01 T Running  ID6:9    Jhg
+20230519 23.19.01 A Disabled ID6:9.1  Jhg.Wait
+20230519 23.19.01 A IfFail   ID6:9.2  Jhg.Goto
+20230519 23.19.01 A Disabled ID6:9.3  Jhg.If
+20230519 23.19.03 A OK       ID6:9.4  Jhg.Wait
+20230519 23.19.03 T ExitOK   ID6:9    Jhg
+20230519 23.19.40 T Running  ID6:10   Jhg
+20230519 23.19.40 A Disabled ID6:10.1 Jhg.Wait
+20230519 23.19.40 A IfFail   ID6:10.2 Jhg.Goto
+20230519 23.19.40 A Disabled ID6:10.3 Jhg.If
+20230519 23.19.43 A OK       ID6:10.4 Jhg.Wait
+20230519 23.19.43 A OK       ID6:10.5 Jhg.If
+20230519 23.19.43 A OK       ID6:10.10 Jhg.If
+20230519 23.19.43 A IfFail   ID6:10.11 Jhg.Wait
+20230519 23.19.43 A Disabled ID6:10.12 Jhg.Bluetooth
+20230519 23.19.43 A OK       ID6:10.13 Jhg.End If
+20230519 23.19.43 A OK       ID6:10.14 Jhg.End If
+20230519 23.19.43 T ExitOK   ID6:10   Jhg
+20230519 23.20.04 T Running  ID6:11   Jhg
+20230519 23.20.04 A Disabled ID6:11.1 Jhg.Wait
+20230519 23.20.04 A IfFail   ID6:11.2 Jhg.Goto
+20230519 23.20.04 A Disabled ID6:11.3 Jhg.If
+20230519 23.20.06 A OK       ID6:11.4 Jhg.Wait
+20230519 23.20.06 T ExitOK   ID6:11   Jhg
+20230519 23.20.33 T Running  ID6:12   Jhg
+20230519 23.20.33 A Disabled ID6:12.1 Jhg.Wait
+20230519 23.20.33 A IfFail   ID6:12.2 Jhg.Goto
+20230519 23.20.33 A Disabled ID6:12.3 Jhg.If
+20230519 23.20.37 A OK       ID6:12.4 Jhg.Wait
+20230519 23.20.37 A OK       ID6:12.5 Jhg.If
+20230519 23.20.40 A OK       ID6:12.6 Jhg.Wait
+20230519 23.20.40 A Disabled ID6:12.7 Jhg.Wait
+20230519 23.20.40 A Disabled ID6:12.8 Jhg.Call
+20230519 23.20.40 A OK       ID6:12.9 Jhg.End If
+20230519 23.20.40 A OK       ID6:12.10 Jhg.If
+20230519 23.20.40 A IfFail   ID6:12.11 Jhg.Wait
+20230519 23.20.40 A Disabled ID6:12.12 Jhg.Bluetooth
+20230519 23.20.40 A OK       ID6:12.13 Jhg.End If
+20230519 23.20.40 A OK       ID6:12.14 Jhg.End If
+20230519 23.20.40 T ExitOK   ID6:12   Jhg
+20230519 23.21.12 T Running  ID6:13   Jhg
+20230519 23.21.12 A Disabled ID6:13.1 Jhg.Wait
+20230519 23.21.12 A IfFail   ID6:13.2 Jhg.Goto
+20230519 23.21.12 A Disabled ID6:13.3 Jhg.If
+20230519 23.21.15 A OK       ID6:13.4 Jhg.Wait
+20230519 23.21.15 A OK       ID6:13.5 Jhg.If
+20230519 23.21.17 A OK       ID6:13.6 Jhg.Wait
+20230519 23.21.17 T ExitOK   ID6:13   Jhg
+20230519 23.23.43 E Stop     ID0:0.0  TaskService
+20230519 23.23.45 E Start    ID0:0.0  TaskService
+20230519 23.23.46 E Stop     ID0:0.0  TaskService
+20230519 23.23.47 E Start    ID0:0.0  TaskService
+20230519 23.26.26 E Stop     ID0:0.0  TaskService
+20230519 23.26.27 E Start    ID0:0.0  TaskService
+20230519 23.26.28 E Stop     ID0:0.0  TaskService
+20230519 23.26.30 E Start    ID0:0.0  TaskService
+20230519 23.26.32 E Stop     ID0:0.0  TaskService
+20230519 23.26.34 E Start    ID0:0.0  TaskService
+20230519 23.26.36 E Stop     ID0:0.0  TaskService
+20230519 23.26.37 E Start    ID0:0.0  TaskService
+20230519 23.26.59 E Stop     ID0:0.0  TaskService
+20230519 23.27.00 E Start    ID0:0.0  TaskService
+20230519 23.27.02 E Stop     ID0:0.0  TaskService
+20230519 23.27.03 E Start    ID0:0.0  TaskService
+20230519 23.27.06 E Stop     ID0:0.0  TaskService
+20230519 23.27.08 E Start    ID0:0.0  TaskService
+20230519 23.27.10 E Stop     ID0:0.0  TaskService
+20230519 23.27.11 E Start    ID0:0.0  TaskService
+20230519 23.27.21 E Stop     ID0:0.0  TaskService
+20230519 23.27.22 E Start    ID0:0.0  TaskService
+20230519 23.27.42 E Stop     ID0:0.0  TaskService
+20230519 23.27.44 E Start    ID0:0.0  TaskService
+20230519 23.28.01 E Stop     ID0:0.0  TaskService
+20230519 23.28.02 E Start    ID0:0.0  TaskService
+20230519 23.30.14 E Stop     ID0:0.0  TaskService
+20230519 23.30.15 E Start    ID0:0.0  TaskService
+20230519 23.30.18 E Stop     ID0:0.0  TaskService
+20230519 23.30.19 E Start    ID0:0.0  TaskService
+20230519 23.31.12 E Stop     ID0:0.0  TaskService
+20230519 23.31.13 E Start    ID0:0.0  TaskService
+20230519 23.31.30 E Stop     ID0:0.0  TaskService
+20230519 23.31.31 E Start    ID0:0.0  TaskService
+20230519 23.31.43 E Stop     ID0:0.0  TaskService
+20230519 23.31.44 E Start    ID0:0.0  TaskService
+20230519 23.32.50 E Stop     ID0:0.0  TaskService
+20230519 23.32.51 E Start    ID0:0.0  TaskService
+20230519 23.33.23 T Running  ID7      Jjvg
+20230519 23.33.23 A IfFail   ID7.1    Jjvg.Goto
+20230519 23.33.23 A Disabled ID7.2    Jjvg.Bluetooth
+20230519 23.33.25 A OK       ID7.3    Jjvg.Wait
+20230519 23.33.25 T ExitOK   ID7      Jjvg
+20230519 23.33.42 T Running  ID7:2    Jjvg
+20230519 23.33.42 A IfFail   ID7:2.1  Jjvg.Goto
+20230519 23.33.42 A Disabled ID7:2.2  Jjvg.Bluetooth
+20230519 23.33.43 A OK       ID7:2.3  Jjvg.Wait
+20230519 23.33.43 T ExitOK   ID7:2    Jjvg
+20230519 23.34.20 T Running  ID7:3    Jjvg
+20230519 23.34.20 A IfFail   ID7:3.1  Jjvg.Goto
+20230519 23.34.20 A Disabled ID7:3.2  Jjvg.Bluetooth
+20230519 23.34.22 A OK       ID7:3.3  Jjvg.Wait
+20230519 23.34.22 T ExitOK   ID7:3    Jjvg
+20230519 23.34.32 T Running  ID7:4    Jjvg
+20230519 23.34.32 A IfFail   ID7:4.1  Jjvg.Goto
+20230519 23.34.32 A Disabled ID7:4.2  Jjvg.Bluetooth
+20230519 23.34.33 A OK       ID7:4.3  Jjvg.Wait
+20230519 23.34.33 T ExitOK   ID7:4    Jjvg
+20230519 23.34.43 T Running  ID7:5    Jjvg
+20230519 23.34.43 A IfFail   ID7:5.1  Jjvg.Goto
+20230519 23.34.43 A Disabled ID7:5.2  Jjvg.Bluetooth
+20230519 23.34.44 A OK       ID7:5.3  Jjvg.Wait
+20230519 23.34.44 T ExitOK   ID7:5    Jjvg
+20230519 23.35.48 T Running  ID7:6    Jjvg
+20230519 23.35.48 A IfFail   ID7:6.1  Jjvg.Goto
+20230519 23.35.48 A Disabled ID7:6.2  Jjvg.Bluetooth
+20230519 23.35.49 A OK       ID7:6.3  Jjvg.Wait
+20230519 23.35.49 T ExitOK   ID7:6    Jjvg
+20230519 23.35.59 T Running  ID7:7    Jjvg
+20230519 23.35.59 A IfFail   ID7:7.1  Jjvg.Goto
+20230519 23.35.59 A Disabled ID7:7.2  Jjvg.Bluetooth
+20230519 23.36.01 A OK       ID7:7.3  Jjvg.Wait
+20230519 23.36.01 T ExitOK   ID7:7    Jjvg
+20230519 23.36.05 T Running  ID7:8    Jjvg
+20230519 23.36.05 A OK       ID7:8.1  Jjvg.Goto
+20230519 23.36.05 A IfFail   ID7:8.4  Jjvg.Wait
+20230519 23.36.06 A OK       ID7:8.5  Jjvg.Wait
+20230519 23.36.06 T ExitOK   ID7:8    Jjvg
+20230519 23.36.39 T Running  ID7:9    Jjvg
+20230519 23.36.39 A OK       ID7:9.1  Jjvg.Goto
+20230519 23.36.39 A IfFail   ID7:9.4  Jjvg.Wait
+20230519 23.36.40 A OK       ID7:9.5  Jjvg.Wait
+20230519 23.36.40 T ExitOK   ID7:9    Jjvg
+20230519 23.36.53 T Running  ID7:10   Jjvg
+20230519 23.36.53 A OK       ID7:10.1 Jjvg.Goto
+20230519 23.36.54 A IfFail   ID7:10.4 Jjvg.Wait
+20230519 23.36.55 A OK       ID7:10.5 Jjvg.Wait
+20230519 23.36.55 T ExitOK   ID7:10   Jjvg
+20230519 23.36.57 T Running  ID7:11   Jjvg
+20230519 23.36.57 A OK       ID7:11.1 Jjvg.Goto
+20230519 23.36.57 A IfFail   ID7:11.4 Jjvg.Wait
+20230519 23.36.59 A OK       ID7:11.5 Jjvg.Wait
+20230519 23.36.59 T ExitOK   ID7:11   Jjvg
+20230519 23.38.04 T Running  ID7:12   Jjvg
+20230519 23.38.04 A OK       ID7:12.1 Jjvg.Goto
+20230519 23.38.04 A IfFail   ID7:12.4 Jjvg.Wait
+20230519 23.38.05 A OK       ID7:12.5 Jjvg.Wait
+20230519 23.38.05 T ExitOK   ID7:12   Jjvg
+20230519 23.38.07 T Running  ID7:13   Jjvg
+20230519 23.38.07 A OK       ID7:13.1 Jjvg.Goto
+20230519 23.38.07 A IfFail   ID7:13.4 Jjvg.Wait
+20230519 23.38.08 A OK       ID7:13.5 Jjvg.Wait
+20230519 23.38.10 T ExitOK   ID7:13   Jjvg
+20230519 23.38.11 T Running  ID7:14   Jjvg
+20230519 23.38.11 A OK       ID7:14.1 Jjvg.Goto
+20230519 23.38.11 A IfFail   ID7:14.4 Jjvg.Wait
+20230519 23.38.11 A OK       ID7:14.5 Jjvg.Wait
+20230519 23.38.11 T ExitOK   ID7:14   Jjvg
+20230519 23.38.15 T Running  ID7:15   Jjvg
+20230519 23.38.15 A OK       ID7:15.1 Jjvg.Goto
+20230519 23.38.15 A IfFail   ID7:15.4 Jjvg.Wait
+20230519 23.38.16 A OK       ID7:15.5 Jjvg.Wait
+20230519 23.38.16 T ExitOK   ID7:15   Jjvg
+20230519 23.38.20 T Running  ID7:16   Jjvg
+20230519 23.38.20 A OK       ID7:16.1 Jjvg.Goto
+20230519 23.38.20 A IfFail   ID7:16.4 Jjvg.Wait
+20230519 23.38.20 A OK       ID7:16.5 Jjvg.Wait
+20230519 23.38.20 T ExitOK   ID7:16   Jjvg
+20230519 23.38.22 T Running  ID7:17   Jjvg
+20230519 23.38.22 A OK       ID7:17.1 Jjvg.Goto
+20230519 23.38.22 A IfFail   ID7:17.4 Jjvg.Wait
+20230519 23.38.22 A OK       ID7:17.5 Jjvg.Wait
+20230519 23.38.22 T ExitOK   ID7:17   Jjvg
+20230519 23.38.23 T Running  ID7:18   Jjvg
+20230519 23.38.23 A OK       ID7:18.1 Jjvg.Goto
+20230519 23.38.23 A IfFail   ID7:18.4 Jjvg.Wait
+20230519 23.38.24 A OK       ID7:18.5 Jjvg.Wait
+20230519 23.38.24 T ExitOK   ID7:18   Jjvg
+20230519 23.38.59 T Running  ID7:19   Jjvg
+20230519 23.38.59 A OK       ID7:19.1 Jjvg.Goto
+20230519 23.38.59 A IfFail   ID7:19.4 Jjvg.Wait
+20230519 23.38.59 A OK       ID7:19.5 Jjvg.Wait
+20230519 23.39.02 T ExitOK   ID7:19   Jjvg
+20230519 23.50.46 E Stop     ID0:0.0  TaskService
+20230519 23.50.47 E Start    ID0:0.0  TaskService
+20230519 23.50.49 E Stop     ID0:0.0  TaskService
+20230519 23.50.49 E Start    ID0:0.0  TaskService
+20230519 23.50.51 E Stop     ID0:0.0  TaskService
+20230519 23.50.51 E Start    ID0:0.0  TaskService
+20230519 23.50.53 E Stop     ID0:0.0  TaskService
+20230519 23.50.56 E Start    ID0:0.0  TaskService
+20230519 23.51.51 E Stop     ID0:0.0  TaskService
+20230519 23.51.51 E Start    ID0:0.0  TaskService
+20230519 23.53.28 E Stop     ID0:0.0  TaskService
+20230519 23.53.29 E Start    ID0:0.0  TaskService
+20230519 23.53.34 E Stop     ID0:0.0  TaskService
+20230519 23.53.35 E Start    ID0:0.0  TaskService
+20230519 23.54.04 T Running  ID6      Jhg
+20230519 23.54.07 A OK       ID6.1    Jhg.Wait
+20230519 23.54.07 A OK       ID6.2    Jhg.If
+20230519 23.54.10 A OK       ID6.3    Jhg.Wait
+20230519 23.54.10 A Disabled ID6.4    Jhg.Call
+20230519 23.54.10 A Disabled ID6.5    Jhg.Wait
+20230519 23.54.10 A IfFail   ID6.6    Jhg.Wait
+20230519 23.54.10 A OK       ID6.7    Jhg.End If
+20230519 23.54.10 A OK       ID6.8    Jhg.If
+20230519 23.54.10 A IfFail   ID6.9    Jhg.Goto
+20230519 23.54.10 A Disabled ID6.10   Jhg.Bluetooth
+20230519 23.54.10 A OK       ID6.11   Jhg.Goto
+20230519 23.54.10 A OK       ID6.12   Jhg.End If
+20230519 23.54.10 A Disabled ID6.13   Jhg.Wait
+20230519 23.54.10 A Disabled ID6.14   Jhg.If
+20230519 23.54.13 A OK       ID6.15   Jhg.Wait
+20230519 23.54.13 A OK       ID6.16   Jhg.If
+20230519 23.54.16 A OK       ID6.17   Jhg.Wait
+20230519 23.54.16 A Disabled ID6.18   Jhg.Wait
+20230519 23.54.16 A Disabled ID6.19   Jhg.Call
+20230519 23.54.16 A IfFail   ID6.20   Jhg.Wait
+20230519 23.54.16 A OK       ID6.21   Jhg.End If
+20230519 23.54.16 A Disabled ID6.22   Jhg.Bluetooth
+20230519 23.54.16 A OK       ID6.23   Jhg.If
+20230519 23.54.16 A OK       ID6.24   Jhg.Goto
+20230519 23.54.16 A OK       ID6.25   Jhg.End If
+20230519 23.54.16 A OK       ID6.26   Jhg.End If
+20230519 23.54.16 T ExitOK   ID6      Jhg
+20230519 23.54.37 E Stop     ID0:0.0  TaskService
+20230519 23.54.37 E Start    ID0:0.0  TaskService
+20230519 23.54.46 E Stop     ID0:0.0  TaskService
+20230519 23.54.48 E Start    ID0:0.0  TaskService
+20230519 23.54.50 E Stop     ID0:0.0  TaskService
+20230519 23.54.50 E Start    ID0:0.0  TaskService
+20230519 23.55.16 T Running  ID7      Jjvg
+20230519 23.55.16 A OK       ID7.1    Jjvg.Goto
+20230519 23.55.16 A IfFail   ID7.4    Jjvg.Wait
+20230519 23.55.18 A OK       ID7.5    Jjvg.Wait
+20230519 23.55.18 T ExitOK   ID7      Jjvg
+20230519 23.55.24 T Running  ID7:2    Jjvg
+20230519 23.55.24 A OK       ID7:2.1  Jjvg.Goto
+20230519 23.55.24 A IfFail   ID7:2.4  Jjvg.Wait
+20230519 23.55.26 A OK       ID7:2.5  Jjvg.Wait
+20230519 23.55.26 T ExitOK   ID7:2    Jjvg
+20230519 23.55.49 T Running  ID7:3    Jjvg
+20230519 23.55.49 A IfFail   ID7:3.1  Jjvg.Goto
+20230519 23.55.49 A Disabled ID7:3.2  Jjvg.Bluetooth
+20230519 23.55.51 A OK       ID7:3.3  Jjvg.Wait
+20230519 23.55.51 T ExitOK   ID7:3    Jjvg
+20230519 23.55.54 T Running  ID7:4    Jjvg
+20230519 23.55.54 A IfFail   ID7:4.1  Jjvg.Goto
+20230519 23.55.54 A Disabled ID7:4.2  Jjvg.Bluetooth
+20230519 23.55.57 A OK       ID7:4.3  Jjvg.Wait
+20230519 23.55.57 T ExitOK   ID7:4    Jjvg
+20230520 00.40.39 E Stop     ID0:0.0  TaskService
+20230520 00.40.58 M Restart  ID0:0.0  Monitor
+20230520 00.41.26 E Start    ID0:0.0  TaskService
+20230520 00.41.33 E Stop     ID0:0.0  TaskService
+20230520 00.41.33 E Start    ID0:0.0  TaskService
+20230520 00.41.38 E Stop     ID0:0.0  TaskService
+20230520 00.41.55 E Start    ID0:0.0  TaskService
+20230520 00.42.15 E Stop     ID0:0.0  TaskService
+20230520 00.42.16 M Restart  ID0:0.0  Monitor
+20230520 00.42.33 E Start    ID0:0.0  TaskService
+20230520 00.42.36 E Stop     ID0:0.0  TaskService
+20230520 00.42.39 E Start    ID0:0.0  TaskService
+20230520 00.42.42 E Stop     ID0:0.0  TaskService
+20230520 00.42.43 E Start    ID0:0.0  TaskService
+20230520 00.43.00 E Stop     ID0:0.0  TaskService
+20230520 00.43.01 E Start    ID0:0.0  TaskService
+20230520 00.43.46 E Stop     ID0:0.0  TaskService
+20230520 00.43.47 E Start    ID0:0.0  TaskService
+20230520 00.43.49 E Stop     ID0:0.0  TaskService
+20230520 00.43.55 E Start    ID0:0.0  TaskService
+20230520 00.44.07 E Stop     ID0:0.0  TaskService
+20230520 00.44.08 E Start    ID0:0.0  TaskService
+20230520 00.47.07 E Stop     ID0:0.0  TaskService
+20230520 00.47.09 E Start    ID0:0.0  TaskService
+20230520 00.47.13 E Stop     ID0:0.0  TaskService
+20230520 00.47.17 E Start    ID0:0.0  TaskService
+20230520 00.47.18 E Stop     ID0:0.0  TaskService
+20230520 00.47.23 E Start    ID0:0.0  TaskService
+20230520 00.47.25 E Stop     ID0:0.0  TaskService
+20230520 00.47.26 E Start    ID0:0.0  TaskService
+20230520 00.47.27 E Stop     ID0:0.0  TaskService
+20230520 00.47.30 E Start    ID0:0.0  TaskService
+20230520 00.47.38 E Stop     ID0:0.0  TaskService
+20230520 00.47.39 E Start    ID0:0.0  TaskService
+20230520 00.47.40 T Running  ID8      aod_mode
+20230520 00.47.40 A Disabled ID8.1    aod_mode.Wait
+20230520 00.47.40 A Disabled ID8.2    aod_mode.Bluetooth
+20230520 00.47.40 T ExitOK   ID8      aod_mode
+20230520 00.47.43 E Stop     ID0:0.0  TaskService
+20230520 00.47.44 E Start    ID0:0.0  TaskService
+20230520 00.47.48 E Stop     ID0:0.0  TaskService
+20230520 00.47.50 E Start    ID0:0.0  TaskService
+20230520 00.47.53 E Stop     ID0:0.0  TaskService
+20230520 00.47.54 E Start    ID0:0.0  TaskService
+20230520 00.47.56 E Stop     ID0:0.0  TaskService
+20230520 00.48.43 E Start    ID0:0.0  TaskService
+20230520 00.48.46 E Stop     ID0:0.0  TaskService
+20230520 00.48.47 E Start    ID0:0.0  TaskService
+20230520 00.49.23 E Stop     ID0:0.0  TaskService
+20230520 00.49.26 E Start    ID0:0.0  TaskService
+20230520 00.49.29 E Stop     ID0:0.0  TaskService
+20230520 00.49.30 E Start    ID0:0.0  TaskService
+20230520 00.50.29 T Running  ID4      Test
+20230520 00.50.29 A Disabled ID4.1    Test.Launch App
+20230520 00.50.29 A Disabled ID4.2    Test.Wait
+20230520 00.50.29 A OK       ID4.3    Test.Goto
+20230520 00.50.29 A OK       ID4.11   Test.End If
+20230520 00.50.29 A OK       ID4.12   Test.If
+20230520 00.50.29 A IfFail   ID4.13   Test.Wait
+20230520 00.50.29 A Disabled ID4.14   Test.Bluetooth
+20230520 00.50.29 A Disabled ID4.15   Test.Call
+20230520 00.50.29 A OK       ID4.16   Test.End If
+20230520 00.50.29 A OK       ID4.17   Test.End If
+20230520 00.50.29 A OK       ID4.18   Test.End If
+20230520 00.50.29 A OK       ID4.19   Test.End If
+20230520 00.50.29 T ExitOK   ID4      Test
+20230520 00.50.42 E Stop     ID0:0.0  TaskService
+20230520 00.50.43 E Start    ID0:0.0  TaskService
+20230520 00.50.45 E Stop     ID0:0.0  TaskService
+20230520 00.50.49 E Start    ID0:0.0  TaskService
+20230520 00.51.12 E Stop     ID0:0.0  TaskService
+20230520 00.51.41 E Start    ID0:0.0  TaskService
+20230520 00.52.04 E Stop     ID0:0.0  TaskService
+20230520 00.52.08 E Start    ID0:0.0  TaskService
+20230520 00.52.13 E Stop     ID0:0.0  TaskService
+20230520 00.52.18 E Start    ID0:0.0  TaskService
+20230520 00.53.39 E Stop     ID0:0.0  TaskService
+20230520 00.53.40 E Start    ID0:0.0  TaskService
+20230520 00.53.42 E Stop     ID0:0.0  TaskService
+20230520 00.53.45 M Restart  ID0:0.0  Monitor
+20230520 00.53.51 E Start    ID0:0.0  TaskService
+20230520 00.54.07 E Stop     ID0:0.0  TaskService
+20230520 00.54.10 E Start    ID0:0.0  TaskService
+20230520 00.54.30 T Running  ID4      Test
+20230520 00.54.30 A Disabled ID4.1    Test.Launch App
+20230520 00.54.30 A Disabled ID4.2    Test.Wait
+20230520 00.54.30 A IfFail   ID4.3    Test.Goto
+20230520 00.54.30 A Disabled ID4.4    Test.If
+20230520 00.54.30 A OK       ID4.5    Test.If
+20230520 00.54.30 A OK       ID4.19   Test.End If
+20230520 00.54.30 T ExitOK   ID4      Test
+20230520 00.54.32 T Running  ID4:2    Test
+20230520 00.54.32 A Disabled ID4:2.1  Test.Launch App
+20230520 00.54.32 A Disabled ID4:2.2  Test.Wait
+20230520 00.54.32 A IfFail   ID4:2.3  Test.Goto
+20230520 00.54.32 A Disabled ID4:2.4  Test.If
+20230520 00.54.32 A OK       ID4:2.5  Test.If
+20230520 00.54.32 A OK       ID4:2.19 Test.End If
+20230520 00.54.32 T ExitOK   ID4:2    Test
+20230520 00.54.37 T Running  ID4:3    Test
+20230520 00.54.37 A Disabled ID4:3.1  Test.Launch App
+20230520 00.54.37 A Disabled ID4:3.2  Test.Wait
+20230520 00.54.37 A IfFail   ID4:3.3  Test.Goto
+20230520 00.54.37 A Disabled ID4:3.4  Test.If
+20230520 00.54.37 A OK       ID4:3.5  Test.If
+20230520 00.54.37 A OK       ID4:3.19 Test.End If
+20230520 00.54.37 T ExitOK   ID4:3    Test
+20230520 00.58.11 T RejBad   ID4      Test
+20230520 00.58.15 T RejBad   ID4      Test
+20230520 00.58.26 T Running  ID4:4    Test
+20230520 00.58.26 A Disabled ID4:4.1  Test.Launch App
+20230520 00.58.26 A Disabled ID4:4.2  Test.Wait
+20230520 00.58.26 A IfFail   ID4:4.3  Test.Goto
+20230520 00.58.26 A Disabled ID4:4.4  Test.If
+20230520 00.58.27 A OK       ID4:4.5  Test.Wait
+20230520 00.58.27 T ExitOK   ID4:4    Test
+20230520 00.58.31 T RejBad   ID4      Test
+20230520 00.58.34 T RejBad   ID4      Test
+20230520 00.58.42 T RejBad   ID4      Test
+20230520 00.58.52 T Running  ID4:5    Test
+20230520 00.58.52 A Disabled ID4:5.1  Test.Launch App
+20230520 00.58.52 A Disabled ID4:5.2  Test.Wait
+20230520 00.58.52 A IfFail   ID4:5.3  Test.Goto
+20230520 00.58.52 A Disabled ID4:5.4  Test.If
+20230520 00.58.53 A OK       ID4:5.5  Test.Wait
+20230520 00.58.53 T ExitOK   ID4:5    Test
+20230520 00.58.55 T Running  ID4:6    Test
+20230520 00.58.55 A Disabled ID4:6.1  Test.Launch App
+20230520 00.58.55 A Disabled ID4:6.2  Test.Wait
+20230520 00.58.55 A IfFail   ID4:6.3  Test.Goto
+20230520 00.58.55 A Disabled ID4:6.4  Test.If
+20230520 00.58.58 A OK       ID4:6.5  Test.Wait
+20230520 00.58.58 A OK       ID4:6.6  Test.End If
+20230520 00.58.58 A Disabled ID4:6.7  Test.If
+20230520 00.58.58 A OK       ID4:6.8  Test.Wait
+20230520 00.58.58 T ExitOK   ID4:6    Test
+20230520 00.59.20 T Running  ID4:7    Test
+20230520 00.59.20 A Disabled ID4:7.1  Test.Launch App
+20230520 00.59.20 A Disabled ID4:7.2  Test.Wait
+20230520 00.59.20 A IfFail   ID4:7.3  Test.Goto
+20230520 00.59.20 A Disabled ID4:7.4  Test.If
+20230520 00.59.22 A OK       ID4:7.5  Test.Wait
+20230520 00.59.22 T ExitOK   ID4:7    Test
+20230520 00.59.23 T Running  ID4:8    Test
+20230520 00.59.23 A Disabled ID4:8.1  Test.Launch App
+20230520 00.59.23 A Disabled ID4:8.2  Test.Wait
+20230520 00.59.23 A IfFail   ID4:8.3  Test.Goto
+20230520 00.59.23 A Disabled ID4:8.4  Test.If
+20230520 00.59.24 A OK       ID4:8.5  Test.Wait
+20230520 00.59.24 T ExitOK   ID4:8    Test
+20230520 01.42.36 E Start    ID0:0.0  TaskService
+20230520 01.42.38 E Stop     ID0:0.0  TaskService
+20230520 01.44.30 E Start    ID0:0.0  TaskService
+20230520 01.44.50 E Stop     ID0:0.0  TaskService
+20230520 01.44.54 M Start    ID0:0.0  Monitor
+20230520 01.45.06 E Start    ID0:0.0  TaskService
+20230520 01.45.41 E Stop     ID0:0.0  TaskService
+20230520 01.45.41 E Start    ID0:0.0  TaskService
+20230520 01.47.42 E Stop     ID0:0.0  TaskService
+20230520 01.47.43 E Start    ID0:0.0  TaskService
+20230520 01.48.28 E Stop     ID0:0.0  TaskService
+20230520 01.48.55 M Restart  ID0:0.0  Monitor
+20230520 01.50.05 E Start    ID0:0.0  TaskService
+20230520 01.50.18 E Stop     ID0:0.0  TaskService
+20230520 01.50.41 E Start    ID0:0.0  TaskService
+20230520 01.51.01 E Stop     ID0:0.0  TaskService
+20230520 01.51.03 E Start    ID0:0.0  TaskService
+20230520 01.51.04 T Running  ID4      Test
+20230520 01.51.04 A Disabled ID4.1    Test.Launch App
+20230520 01.51.04 A Disabled ID4.2    Test.Wait
+20230520 01.51.04 A OK       ID4.3    Test.Var Set, %IS_POWER_THERE=1
+20230520 01.51.04 A IfFail   ID4.4    Test.Goto
+20230520 01.51.04 A Disabled ID4.5    Test.If
+20230520 01.51.06 A OK       ID4.6    Test.Wait
+20230520 01.51.06 T ExitOK   ID4      Test
+20230520 01.51.41 T Running  ID4:2    Test
+20230520 01.51.41 A Disabled ID4:2.1  Test.Launch App
+20230520 01.51.41 A Disabled ID4:2.2  Test.Wait
+20230520 01.51.41 A OK       ID4:2.3  Test.Var Set, %IS_POWER_THERE=1
+20230520 01.51.41 A IfFail   ID4:2.4  Test.Goto
+20230520 01.51.41 A Disabled ID4:2.5  Test.If
+20230520 01.51.44 A OK       ID4:2.6  Test.Wait
+20230520 01.51.44 A OK       ID4:2.7  Test.End If
+20230520 01.51.44 A Disabled ID4:2.8  Test.If
+20230520 01.51.47 A OK       ID4:2.9  Test.Wait
+20230520 01.51.47 A OK       ID4:2.10 Test.Stop
+20230520 01.51.47 T ExitOK   ID4:2    Test
+20230520 01.51.49 T Running  ID4:3    Test
+20230520 01.51.49 A Disabled ID4:3.1  Test.Launch App
+20230520 01.51.49 A Disabled ID4:3.2  Test.Wait
+20230520 01.51.49 A OK       ID4:3.3  Test.Var Set, %IS_POWER_THERE=0
+20230520 01.51.49 A IfFail   ID4:3.4  Test.Goto
+20230520 01.51.49 A Disabled ID4:3.5  Test.If
+20230520 01.51.50 A OK       ID4:3.6  Test.Wait
+20230520 01.51.50 T ExitOK   ID4:3    Test
+20230520 01.52.13 T Running  ID4:4    Test
+20230520 01.52.13 A Disabled ID4:4.1  Test.Launch App
+20230520 01.52.13 A Disabled ID4:4.2  Test.Wait
+20230520 01.52.13 A OK       ID4:4.3  Test.Var Set, %IS_POWER_THERE=1
+20230520 01.52.13 A IfFail   ID4:4.4  Test.Goto
+20230520 01.52.13 A Disabled ID4:4.5  Test.If
+20230520 01.52.15 A OK       ID4:4.6  Test.Wait
+20230520 01.52.15 T ExitOK   ID4:4    Test
+20230520 01.53.37 T Running  ID4:5    Test
+20230520 01.53.37 A OK       ID4:5.1  Test.Var Set, %IS_POWER_THERE=1
+20230520 01.53.37 A Disabled ID4:5.2  Test.Launch App
+20230520 01.53.37 A Disabled ID4:5.3  Test.Wait
+20230520 01.53.37 A IfFail   ID4:5.4  Test.Goto
+20230520 01.53.37 A Disabled ID4:5.5  Test.If
+20230520 01.53.39 A OK       ID4:5.6  Test.Wait
+20230520 01.53.39 T ExitOK   ID4:5    Test
+20230520 01.53.45 E Stop     ID0:0.0  TaskService
+20230520 01.53.48 E Start    ID0:0.0  TaskService
+20230520 01.53.50 E Stop     ID0:0.0  TaskService
+20230520 01.53.51 E Start    ID0:0.0  TaskService
+20230520 01.53.56 E Stop     ID0:0.0  TaskService
+20230520 01.53.58 E Start    ID0:0.0  TaskService
+20230520 01.54.01 E Stop     ID0:0.0  TaskService
+20230520 01.54.05 M Stop     ID0:0.0  Monitor
+20230520 01.54.11 E Start    ID0:0.0  TaskService
+20230520 01.54.12 T Running  ID4      Test
+20230520 01.54.12 A OK       ID4.1    Test.Var Set, %IS_POWER_THERE=1
+20230520 01.54.12 M Start    ID0:0.0  Monitor
+20230520 01.54.12 A Disabled ID4.2    Test.Launch App
+20230520 01.54.12 A Disabled ID4.3    Test.Wait
+20230520 01.54.12 A IfFail   ID4.4    Test.Goto
+20230520 01.54.12 A Disabled ID4.5    Test.If
+20230520 01.54.16 A OK       ID4.6    Test.Wait
+20230520 01.54.16 A OK       ID4.7    Test.End If
+20230520 01.54.16 A Disabled ID4.8    Test.If
+20230520 01.54.19 A OK       ID4.9    Test.Wait
+20230520 01.54.19 A OK       ID4.10   Test.Stop
+20230520 01.54.19 T ExitOK   ID4      Test
+20230520 01.54.49 T Running  ID4:2    Test
+20230520 01.54.49 A OK       ID4:2.1  Test.Var Set, %IS_POWER_THERE=1
+20230520 01.54.49 A Disabled ID4:2.2  Test.Launch App
+20230520 01.54.49 A Disabled ID4:2.3  Test.Wait
+20230520 01.54.49 A IfFail   ID4:2.4  Test.Goto
+20230520 01.54.50 A Disabled ID4:2.5  Test.If
+20230520 01.54.53 A OK       ID4:2.6  Test.Wait
+20230520 01.54.53 A OK       ID4:2.7  Test.End If
+20230520 01.54.53 A Disabled ID4:2.8  Test.If
+20230520 01.54.56 A OK       ID4:2.9  Test.Wait
+20230520 01.54.56 A IfFail   ID4:2.10 Test.Stop
+20230520 01.54.56 A OK       ID4:2.11 Test.End If
+20230520 01.54.56 A Disabled ID4:2.12 Test.If
+20230520 01.54.56 A OK       ID4:2.13 Test.If
+20230520 01.54.56 A OK       ID4:2.25 Test.End If
+20230520 01.54.56 T ExitOK   ID4:2    Test
+20230520 01.56.03 E Stop     ID0:0.0  TaskService
+20230520 01.56.42 E Start    ID0:0.0  TaskService
+20230520 01.56.44 E Stop     ID0:0.0  TaskService
+20230520 01.56.46 E Start    ID0:0.0  TaskService
+20230520 01.56.47 T Running  ID4      Test
+20230520 01.56.47 A OK       ID4.1    Test.Var Set, %IS_POWER_THERE=1
+20230520 01.56.47 A Disabled ID4.2    Test.Launch App
+20230520 01.56.47 A Disabled ID4.3    Test.Wait
+20230520 01.56.47 A IfFail   ID4.4    Test.Goto
+20230520 01.56.47 A Disabled ID4.5    Test.If
+20230520 01.56.50 A OK       ID4.6    Test.Wait
+20230520 01.56.50 A OK       ID4.7    Test.End If
+20230520 01.56.50 A Disabled ID4.8    Test.If
+20230520 01.56.53 A OK       ID4.9    Test.Wait
+20230520 01.56.53 A IfFail   ID4.10   Test.Stop
+20230520 01.56.53 A OK       ID4.11   Test.End If
+20230520 01.56.53 A Disabled ID4.12   Test.If
+20230520 01.56.53 A OK       ID4.13   Test.If
+20230520 01.56.53 A OK       ID4.25   Test.End If
+20230520 01.56.53 T ExitOK   ID4      Test
+20230520 01.57.52 E Stop     ID0:0.0  TaskService
+20230520 01.58.00 E Start    ID0:0.0  TaskService
+20230520 01.58.15 T Running  ID4      Test
+20230520 01.58.15 A OK       ID4.1    Test.Var Set, %IS_POWER_THERE=1
+20230520 01.58.15 A Disabled ID4.2    Test.Launch App
+20230520 01.58.15 A Disabled ID4.3    Test.Wait
+20230520 01.58.15 A IfFail   ID4.4    Test.Goto
+20230520 01.58.15 A Disabled ID4.5    Test.If
+20230520 01.58.18 A OK       ID4.6    Test.Wait
+20230520 01.58.19 A OK       ID4.7    Test.End If
+20230520 01.58.19 A Disabled ID4.8    Test.If
+20230520 01.58.22 A OK       ID4.9    Test.Wait
+20230520 01.58.22 A IfFail   ID4.10   Test.Stop
+20230520 01.58.22 A OK       ID4.11   Test.End If
+20230520 01.58.22 A Disabled ID4.12   Test.If
+20230520 01.58.22 A OK       ID4.13   Test.If
+20230520 01.58.22 A OK       ID4.25   Test.End If
+20230520 01.58.22 T ExitOK   ID4      Test
+20230520 01.59.03 E Stop     ID0:0.0  TaskService
+20230520 01.59.04 M Restart  ID0:0.0  Monitor
+20230520 01.59.13 E Start    ID0:0.0  TaskService
+20230520 01.59.18 E Stop     ID0:0.0  TaskService
+20230520 01.59.20 E Start    ID0:0.0  TaskService
+20230520 01.59.22 E Stop     ID0:0.0  TaskService
+20230520 01.59.26 E Start    ID0:0.0  TaskService
+20230520 01.59.45 E Stop     ID0:0.0  TaskService
+20230520 01.59.47 E Start    ID0:0.0  TaskService
+20230520 01.59.48 T Running  ID8      aod_mode
+20230520 01.59.48 A OK       ID8.1    aod_mode.Var Clear, %IS_POWER_THERE=%IS_POWER_THERE
+20230520 01.59.52 A OK       ID8.2    aod_mode.Wait
+20230520 01.59.52 T ExitOK   ID8      aod_mode
+20230520 01.59.53 E Stop     ID0:0.0  TaskService
+20230520 01.59.55 E Start    ID0:0.0  TaskService
+20230520 02.35.26 E Stop     ID0:0.0  TaskService
+20230525 23.08.24 E Start    ID0:0.0  TaskService
+20230525 23.08.26 E Stop     ID0:0.0  TaskService
+20230525 23.08.27 E Start    ID0:0.0  TaskService
+20230525 23.08.28 E Stop     ID0:0.0  TaskService
+20230525 23.08.29 M Start    ID0:0.0  Monitor
+20230605 14.53.26 M Start    ID0:0.0  Monitor
