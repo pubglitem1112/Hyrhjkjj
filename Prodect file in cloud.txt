@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 , test
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
